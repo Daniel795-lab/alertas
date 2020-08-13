@@ -1,0 +1,50 @@
+---
+title: "Alerta conductores"
+author: "Daniel Ugalde (diugalde@uc.cl)"
+date: "8/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r global options, echo = FALSE, force = TRUE, message = FALSE, warning = FALSE}
+library(sf)
+library(ggplot2)
+library(readxl)
+library(ggspatial)
+library(janitor)
+library(leaflet.extras)
+
+setwd("C:/Users/Daniel/Desktop/R/TP4/alertas")
+
+datos_csv <- read.csv(file = "DSS.csv")
+
+datos_csv <- datos_csv %>% clean_names()
+
+data_1_sf <- st_as_sf(datos_csv,
+                      coords = c("longitud", "latitud"),
+                      crs = 4326)
+```
+
+
+
+```{r echo=FALSE, collapse=TRUE, message= F, warning = F, fig.align='center'}
+icons <- awesomeIconList(
+  escuela = makeAwesomeIcon(icon='fa-home', library='fa', markerColor = 'blue'))
+
+leaflet(datos_csv) %>% addTiles() %>% addProviderTiles(providers$CartoDB.Positron) %>%
+  addMarkers(data=datos_csv,
+             lng=~longitud, lat=~latitud, 
+             label=~tipo,
+             popup = paste0("Nombre:", as.character(datos_csv$tipo)),
+             clusterOptions = markerClusterOptions(removeOutsideVisibleBounds = F),
+             labelOptions = labelOptions(noHide = F,
+                                         direction = 'auto'))%>%
+  addDrawToolbar(
+    targetGroup='datos_csv',
+    editOptions = editToolbarOptions(selectedPathOptions = selectedPathOptions()))#agregame una barra de dibujo
+
+```

@@ -1,0 +1,987 @@
+﻿FAENA,CONDUCTOR,VEHICULO,FECHA,HORA,TURNO,TIPO,Detected type,Duration (sec),VELOCIDAD,Distance covered (metres),SUB TIPO,LATITUD ,LONGITUD
+VAR,,1670 - LRTK87,1/2/2020,21:02:30,Noche,Distracción,Fatiga,"2,92",18.00,14.00,conducción distraída,-33.364444,-70.490278
+VAR,,1240 - GWKL16,1/2/2020,15:22:03,Día,Distracción,Distracción,"3,07",80.00,69.00,conducción distraída,-33.337000,-70.713588
+VAR,,1240 - GWKL16,1/2/2020,15:22:15,Día,Distracción,Distracción,"3,09",80.00,69.00,conducción distraída,-33.339272,-70.712560
+VAR,,1240 - GWKL16,1/2/2020,20:36:00,Noche,Distracción,Distracción,"3,18",80.00,71.00,conducción distraída,-33.373190,-70.724736
+VAR,,1657 - LLWZ34,1/2/2020,02:50:36,Noche,Distracción,Distracción,"5,53",81.00,124.00,conducción distraída,-33.379510,-70.648761
+VAR,,1671- LRTK88,1/2/2020,06:30:37,Noche,Distracción,Distracción,"3,18",90.00,80.00,conducción distraída,-34.101393,-70.720365
+VAR,,1650- LLWZ31,1/3/2020,21:40:25,Noche,Distracción,Distracción,"3,63",39.00,39.00,conducción distraída,-33.319670,-70.361245
+VAR,,1656 - LLWZ30,1/3/2020,13:54:36,Día,Distracción,Distracción,"3,04",61.00,52.00,conducción distraída,-33.331711,-70.821155
+VAR,,1671- LRTK88,1/3/2020,04:22:24,Noche,Distracción,Distracción,"3,17",70.00,62.00,conducción distraída,-33.381099,-70.583985
+VAR,,1560 - KVWX89(M DE F),1/3/2020,14:01:55,Día,Distracción,Fatiga,"1,53",85.00,36.00,conducción distraída,-33.621667,-71.413611
+VAR,,1650- LLWZ31,1/3/2020,02:04:51,Noche,Distracción,Distracción,"3,78",90.00,94.00,conducción distraída,-33.666260,-71.242456
+VAR,,1670 - LRTK87,1/3/2020,03:21:16,Noche,Distracción,Ojos cerrados,"3,65",90.00,91.00,conducción distraída,-33.569722,-71.524444
+VAR,,1650- LLWZ31,1/3/2020,03:35:28,Noche,Distracción,Distracción,"4,02",90.00,101.00,conducción distraída,-33.613458,-71.440291
+VAR,,1650- LLWZ31,1/3/2020,03:54:28,Noche,Distracción,Distracción,"3,04",90.00,76.00,conducción distraída,-33.669845,-71.156600
+VAR,,1650- LLWZ31,1/3/2020,04:13:34,Noche,Distracción,Distracción,"3,15",90.00,79.00,conducción distraída,-33.646315,-70.877961
+VAR,,1651 - LPBX91,1/3/2020,01:33:58,Noche,Distracción,Distracción,"3,54",91.00,89.00,conducción distraída,-33.495415,-70.776941
+VAR,,1650- LLWZ31,1/3/2020,01:45:16,Noche,Distracción,Distracción,"3,02",91.00,76.00,conducción distraída,-33.686409,-70.946254
+VAR,,1650- LLWZ31,1/3/2020,01:45:21,Noche,Distracción,Distracción,"4,52",91.00,114.00,conducción distraída,-33.686909,-70.947164
+VAR,,1650- LLWZ31,1/3/2020,03:35:45,Noche,Distracción,Distracción,"3,07",91.00,78.00,conducción distraída,-33.615612,-71.436157
+VAR,,1653- LLWZ29,1/4/2020,03:39:47,Noche,Distracción,Distracción,"4,22",36.00,42.00,conducción distraída,-33.371028,-70.458334
+VAR,,1369 - HWVV84,1/5/2020,17:09:01,Día,Distracción,Mirada ausente,"3,27",83.00,75.00,conducción distraída,-33.373889,-70.718611
+VAR,,1240 - GWKL16,1/6/2020,19:10:50,Día,Distracción,Distracción,"3,59",39.00,39.00,conducción distraída,-33.388185,-70.757079
+VAR,,1240 - GWKL16,1/6/2020,14:39:03,Día,Distracción,Distracción,"3,30",53.00,49.00,conducción distraída,-33.273706,-70.742805
+VAR,,1672 - LRTK89,1/6/2020,11:18:26,Día,Distracción,Mirada ausente,"3,30",91.00,83.00,conducción distraída,-33.346111,-70.694167
+VAR,,1671- LRTK88,1/7/2020,01:24:24,Noche,Distracción,Fatiga,"1,65",28.00,13.00,conducción distraída,-33.364694,-70.488519
+VAR,,1368 - HWVV83,1/7/2020,15:58:57,Día,Distracción,Mirada ausente,"3,50",36.00,35.00,conducción distraída,-33.100833,-70.781944
+VAR,,1368 - HWVV83,1/7/2020,16:02:46,Día,Distracción,Mirada ausente,"3,10",38.00,32.00,conducción distraída,-33.101389,-70.762778
+VAR,,1651 - LPBX91,1/7/2020,15:56:55,Día,Distracción,Fatiga,"1,91",39.00,21.00,conducción distraída,-33.157814,-70.678490
+VAR,,1650- LLWZ31,1/7/2020,16:51:59,Día,Distracción,Distracción,"3,68",39.00,40.00,conducción distraída,-33.270636,-70.736559
+VAR,,1240 - GWKL16,1/7/2020,23:10:42,Noche,Distracción,Distracción,"3,76",41.00,42.00,conducción distraída,-33.158756,-70.322632
+VAR,,1240 - GWKL16,1/7/2020,23:23:38,Noche,Distracción,Distracción,"3,44",45.00,43.00,conducción distraída,-33.210627,-70.340116
+VAR,,1651 - LPBX91,1/7/2020,01:41:26,Noche,Distracción,Fatiga,"1,76",93.00,45.00,conducción distraída,-33.671230,-70.919278
+VAR,Braulio Diaz,1671- LRTK88,1/8/2020,23:21:22,Noche,Fatiga,Fatiga,"1,91",88.00,47.00,somnolencia,-33.652172,-71.325529
+VAR,Alex Ruz,1651 - LPBX91,1/8/2020,22:01:33,Noche,Fatiga,Fatiga,"1,69",30.00,14.00,somnolencia,-33.225283,-70.342828
+VAR,,1651 - LPBX91,1/8/2020,00:54:18,Noche,Distracción,Fatiga,"1,91",29.00,15.00,notificación de conducir distraído,-33.369868,-70.511524
+VAR,,1650- LLWZ31,1/8/2020,10:37:05,Día,Distracción,Distracción,"3,66",36.00,37.00,conducción distraída,-33.150192,-70.655276
+VAR,,1240 - GWKL16,1/8/2020,23:54:04,Noche,Distracción,Distracción,"3,26",41.00,37.00,conducción distraída,-33.163446,-70.322823
+VAR,,1240 - GWKL16,1/8/2020,23:55:49,Noche,Distracción,Distracción,"3,39",46.00,43.00,conducción distraída,-33.158804,-70.322745
+VAR,,1240 - GWKL16,1/8/2020,01:12:40,Noche,Distracción,Distracción,"3,13",48.00,42.00,conducción distraída,-33.388693,-70.756413
+VAR,,1650- LLWZ31,1/8/2020,10:28:31,Día,Distracción,Distracción,"3,74",54.00,56.00,notificación de conducir distraído,-33.214785,-70.673547
+VAR,,1241- GWKL17,1/8/2020,13:48:30,Día,Distracción,Distracción,"3,18",62.00,55.00,conducción distraída,-33.293091,-70.746269
+VAR,,1240 - GWKL16,1/8/2020,13:32:41,Día,Distracción,Distracción,"3,13",66.00,57.00,conducción distraída,-33.325541,-70.718346
+VAR,,1240 - GWKL16,1/8/2020,13:32:22,Día,Distracción,Distracción,"3,33",74.00,69.00,conducción distraída,-33.328606,-70.716977
+VAR,,1650- LLWZ31,1/8/2020,10:34:05,Día,Distracción,Distracción,"3,18",86.00,76.00,conducción distraída,-33.156485,-70.649982
+VAR,,1671- LRTK88,1/8/2020,23:33:52,Noche,Distracción,Fatiga,"1,65",90.00,41.00,conducción distraída,-33.669147,-71.136180
+VAR,,1650- LLWZ31,1/8/2020,15:58:31,Día,Distracción,Distracción,"3,89",91.00,98.00,conducción distraída,-33.264906,-70.699522
+VAR,,1651 - LPBX91,1/8/2020,01:51:01,Noche,Distracción,Fatiga,"1,85",92.00,47.00,conducción distraída,-33.699483,-71.028532
+VAR,,1651 - LPBX91,1/8/2020,02:08:35,Noche,Distracción,Fatiga,"1,61",92.00,41.00,conducción distraída,-33.652494,-71.296167
+VAR,,1241- GWKL17,1/8/2020,13:42:21,Día,Distracción,Distracción,"3,35",93.00,87.00,conducción distraída,-33.275966,-70.728164
+VAR,,1241- GWKL17,1/8/2020,13:42:08,Día,Distracción,Distracción,"3,20",97.00,86.00,conducción distraída,-33.276401,-70.732618
+VAR,Manuel Morales,1368 - HWVV83,1/9/2020,11:08:11,Día,Fatiga,Fatiga,"1,60",82.00,37.00,somnolencia,-33.195556,-70.657500
+VAR,Manuel Morales,1368 - HWVV83,1/9/2020,11:09:41,Día,Fatiga,Fatiga,"1,75",84.00,41.00,somnolencia,-33.210556,-70.670278
+VAR,,1240 - GWKL16,1/9/2020,22:23:35,Noche,Distracción,Fatiga,"1,57",21.00,9.00,conducción distraída,-33.237093,-70.344401
+VAR,,1651 - LPBX91,1/9/2020,04:35:58,Noche,Distracción,Fatiga,"1,94",22.00,12.00,conducción distraída,-33.384805,-70.750680
+VAR,,1240 - GWKL16,1/9/2020,22:21:34,Noche,Distracción,Fatiga,"2,02",23.00,13.00,conducción distraída,-33.244312,-70.346501
+VAR,,1158 - FZFF64,1/9/2020,17:12:12,Día,Distracción,Fatiga,"1,65",30.00,14.00,conducción distraída,-33.148488,-70.281462
+VAR,,1240 - GWKL16,1/9/2020,22:30:53,Noche,Distracción,Distracción,"3,96",35.00,39.00,conducción distraída,-33.222941,-70.341731
+VAR,,1240 - GWKL16,1/9/2020,23:11:16,Noche,Distracción,Distracción,"3,44",36.00,35.00,conducción distraída,-33.159853,-70.332580
+VAR,,1240 - GWKL16,1/9/2020,23:51:44,Noche,Distracción,Distracción,"3,83",36.00,38.00,conducción distraída,-33.308563,-70.357058
+VAR,,1240 - GWKL16,1/9/2020,23:09:42,Noche,Distracción,Distracción,"3,07",38.00,32.00,conducción distraída,-33.162857,-70.327130
+VAR,,1240 - GWKL16,1/9/2020,23:46:45,Noche,Distracción,Distracción,"3,35",38.00,36.00,conducción distraída,-33.283027,-70.351797
+VAR,,1240 - GWKL16,1/9/2020,23:53:39,Noche,Distracción,Distracción,"3,07",38.00,33.00,conducción distraída,-33.317943,-70.360947
+VAR,,1240 - GWKL16,1/9/2020,23:23:03,Noche,Distracción,Distracción,"3,20",40.00,36.00,conducción distraída,-33.203912,-70.338441
+VAR,,1650- LLWZ31,1/9/2020,08:58:37,Día,Distracción,Distracción,"3,91",41.00,44.00,conducción distraída,-33.383561,-70.756475
+VAR,,1240 - GWKL16,1/9/2020,20:45:26,Noche,Distracción,Distracción,"3,22",52.00,47.00,conducción distraída,-33.384911,-70.592810
+VAR,,1650- LLWZ31,1/9/2020,09:24:43,Día,Distracción,Distracción,"3,04",87.00,74.00,conducción distraída,-33.149723,-70.655247
+VAR,,1652 - LLWZ24(mdef),1/9/2020,13:33:11,Día,Distracción,Distracción,"3,13",91.00,79.00,conducción distraída,-33.152090,-70.653553
+VAR,,1240 - GWKL16,1/10/2020,22:44:38,Noche,Distracción,Fatiga,"2,06",20.00,11.00,conducción distraída,-33.174693,-70.336837
+VAR,,1650- LLWZ31,1/10/2020,14:16:45,Día,Distracción,Distracción,"3,55",35.00,35.00,conducción distraída,-33.388146,-70.754743
+VAR,,1653- LLWZ29,1/10/2020,22:13:54,Noche,Distracción,Distracción,"3,33",36.00,33.00,conducción distraída,-33.232520,-70.345480
+VAR,,1240 - GWKL16,1/10/2020,23:28:25,Noche,Distracción,Distracción,"3,33",36.00,33.00,conducción distraída,-33.177651,-70.337422
+VAR,,1650- LLWZ31,1/10/2020,09:41:51,Día,Distracción,Distracción,"3,37",50.00,46.00,conducción distraída,-33.094593,-70.746983
+VAR,,1650- LLWZ31,1/10/2020,09:35:12,Día,Distracción,Distracción,"3,16",52.00,45.00,conducción distraída,-33.145370,-70.791009
+VAR,,1240 - GWKL16,1/10/2020,15:18:01,Día,Distracción,Distracción,"3,20",71.00,63.00,conducción distraída,-33.282164,-70.738146
+VAR,,1240 - GWKL16,1/10/2020,00:55:08,Noche,Distracción,Distracción,"3,13",81.00,70.00,conducción distraída,-33.387113,-70.635140
+VAR,,1673 - LRTK90,1/10/2020,14:05:38,Día,Distracción,Mirada ausente,"3,74",89.00,92.00,conducción distraída,-33.299167,-70.700556
+VAR,,1650- LLWZ31,1/10/2020,09:16:24,Día,Distracción,Distracción,"3,35",90.00,84.00,conducción distraída,-33.273278,-70.741802
+VAR,,1650- LLWZ31,1/10/2020,09:17:14,Día,Distracción,Distracción,"3,44",90.00,86.00,conducción distraída,-33.262685,-70.746536
+VAR,,1650- LLWZ31,1/10/2020,14:02:20,Día,Distracción,Distracción,"3,31",90.00,83.00,conducción distraída,-33.276112,-70.740829
+VAR,,1158 - FZFF64,1/11/2020,01:25:41,Noche,Distracción,Fatiga,"1,87",31.00,16.00,notificación de cierre los ojos,-33.159602,-70.283088
+VAR,,1650- LLWZ31,1/11/2020,00:22:46,Noche,Distracción,Fatiga,"1,54",38.00,16.00,conducción distraída,-33.364641,-70.487247
+VAR,,1368 - HWVV83,1/11/2020,16:57:20,Día,Distracción,Mirada ausente,"3,14",38.00,33.00,conducción distraída,-33.388333,-70.756944
+VAR,,1240 - GWKL16,1/11/2020,01:42:48,Noche,Distracción,Distracción,"3,15",90.00,78.00,conducción distraída,-33.377283,-70.749493
+VAR,,1563 - KVWX92(MDEF),1/13/2020,18:04:27,Día,Distracción,Mirada ausente,"4,09",30.00,34.00,conducción distraída,-33.526389,-70.705833
+VAR,,1555 - KVWX83(M DE F),1/13/2020,12:31:27,Día,Distracción,Mirada ausente,"3,36",35.00,32.00,conducción distraída,-33.893056,-70.734722
+VAR,,1650- LLWZ31,1/13/2020,10:13:27,Día,Distracción,Distracción,"3,96",37.00,41.00,conducción distraída,-33.147120,-70.698738
+VAR,,1669 - LRTK86,1/13/2020,10:05:46,Día,Distracción,Distracción,"3,89",42.00,46.00,conducción distraída,-33.526655,-70.706208
+VAR,,1240 - GWKL16,1/13/2020,20:40:11,Noche,Distracción,Distracción,"3,04",42.00,36.00,conducción distraída,-33.373926,-70.745066
+VAR,,1240 - GWKL16,1/13/2020,23:52:15,Noche,Distracción,Distracción,"3,09",43.00,37.00,conducción distraída,-33.294756,-70.355533
+VAR,,1240 - GWKL16,1/13/2020,23:53:20,Noche,Distracción,Distracción,"3,13",45.00,39.00,conducción distraída,-33.300558,-70.358140
+VAR,,1555 - KVWX83(M DE F),1/13/2020,14:25:26,Día,Distracción,Mirada ausente,"3,14",82.00,72.00,conducción distraída,-33.355833,-70.704722
+VAR,,1555 - KVWX83(M DE F),1/13/2020,12:53:13,Día,Distracción,Mirada ausente,"4,29",88.00,104.00,conducción distraída,-33.722222,-70.728333
+VAR,,1242 - GWKL18,1/14/2020,12:04:24,Día,Distracción,Mirada ausente,"3,86",31.00,33.00,conducción distraída,-33.315278,-70.705556
+VAR,,1667 - LRTK84,1/14/2020,15:04:59,Día,Distracción,Distracción,"3,04",35.00,30.00,conducción distraída,-33.158185,-70.332214
+VAR,,1240 - GWKL16,1/14/2020,00:31:18,Noche,Distracción,Distracción,"3,11",36.00,31.00,conducción distraída,-33.369986,-70.461842
+VAR,,1650- LLWZ31,1/14/2020,21:25:50,Noche,Distracción,Distracción,"3,57",36.00,36.00,conducción distraída,-33.342826,-70.363849
+VAR,,1240 - GWKL16,1/14/2020,23:33:20,Noche,Distracción,Distracción,"3,35",36.00,33.00,conducción distraída,-33.158612,-70.331169
+VAR,,1672 - LRTK89,1/14/2020,09:48:34,Día,Distracción,Mirada ausente,"3,43",38.00,36.00,conducción distraída,-33.154167,-70.667222
+VAR,,1658 - LLWZ23,1/14/2020,18:15:48,Día,Distracción,Fatiga,"1,68",40.00,19.00,conducción distraída,-33.196012,-70.339035
+VAR,,1240 - GWKL16,1/14/2020,23:31:47,Noche,Distracción,Distracción,"3,42",43.00,41.00,conducción distraída,-33.160092,-70.323910
+VAR,,1240 - GWKL16,1/14/2020,22:41:09,Noche,Distracción,Distracción,"3,17",45.00,40.00,conducción distraída,-33.216567,-70.340895
+VAR,,1555 - KVWX83(M DE F),1/14/2020,16:32:21,Día,Distracción,Mirada ausente,"3,25",70.00,64.00,conducción distraída,-33.216389,-70.767500
+VAR,,1555 - KVWX83(M DE F),1/14/2020,11:24:53,Día,Distracción,Mirada ausente,"3,20",87.00,78.00,conducción distraída,-33.000000,-70.878611
+VAR,,1670 - LRTK87,1/14/2020,04:34:00,Noche,Distracción,Mirada ausente,"3,09",88.00,75.00,conducción distraída,-33.468889,-70.761389
+VAR,,1671- LRTK88,1/14/2020,14:33:12,Día,Distracción,Fatiga,"1,96",89.00,49.00,conducción distraída,-33.373828,-70.719333
+VAR,,1242 - GWKL18,1/15/2020,09:44:22,Día,Distracción,Fatiga,"2,58",32.00,23.00,conducción distraída,-33.283333,-70.743333
+VAR,,1243 - GWKL19,1/15/2020,19:20:24,Día,Distracción,Fatiga,"1,82",39.00,20.00,notificación de conducir distraído,-33.386111,-70.752500
+VAR,,1240 - GWKL16,1/15/2020,01:45:31,Noche,Distracción,Distracción,"3,09",83.00,71.00,conducción distraída,-33.379505,-70.648027
+VAR,,1650- LLWZ31,1/15/2020,02:19:12,Noche,Distracción,Distracción,"3,22",84.00,75.00,conducción distraída,-33.561341,-71.559403
+VAR,,1650- LLWZ31,1/15/2020,20:32:15,Noche,Distracción,Distracción,"3,55",88.00,87.00,conducción distraída,-33.371621,-70.669776
+VAR,,1650- LLWZ31,1/15/2020,01:59:42,Noche,Distracción,Distracción,"3,46",89.00,86.00,conducción distraída,-33.651851,-71.291869
+VAR,,1671- LRTK88,1/16/2020,04:10:01,Noche,Distracción,Fatiga,"2,59",22.00,16.00,conducción distraída,-33.593051,-71.614788
+VAR,,1650- LLWZ31,1/16/2020,00:52:36,Noche,Distracción,Fatiga,"2,44",34.00,23.00,conducción distraída,-33.366990,-70.498435
+VAR,,1671- LRTK88,1/16/2020,10:58:28,Día,Distracción,Distracción,"3,44",38.00,37.00,conducción distraída,-33.388432,-70.756851
+VAR,,1650- LLWZ31,1/16/2020,12:39:29,Día,Distracción,Distracción,"3,11",38.00,33.00,conducción distraída,-33.148779,-70.689482
+VAR,,1240 - GWKL16,1/16/2020,00:23:36,Noche,Distracción,Distracción,"3,30",42.00,38.00,conducción distraída,-33.166154,-70.333991
+VAR,,1240 - GWKL16,1/16/2020,01:44:12,Noche,Distracción,Distracción,"3,13",43.00,37.00,conducción distraída,-33.366952,-70.512668
+VAR,,1240 - GWKL16,1/16/2020,02:06:16,Noche,Distracción,Distracción,"3,61",53.00,53.00,conducción distraída,-33.388670,-70.756458
+VAR,,1650- LLWZ31,1/16/2020,05:08:28,Noche,Distracción,Distracción,"3,29",90.00,83.00,conducción distraída,-33.700949,-70.976703
+VAR,,1650- LLWZ31,1/16/2020,05:20:34,Noche,Distracción,Distracción,"3,11",90.00,78.00,conducción distraída,-33.591641,-70.844433
+VAR,,1240 - GWKL16,1/16/2020,16:43:47,Día,Distracción,Distracción,"3,15",95.00,83.00,conducción distraída,-33.373588,-70.719953
+VAR,,1670 - LRTK87,1/17/2020,23:49:57,Noche,Distracción,Mirada ausente,"3,33",37.00,34.00,conducción distraída,-33.319444,-70.361111
+VAR,,1670 - LRTK87,1/17/2020,13:34:14,Día,Distracción,Mirada ausente,"3,13",38.00,33.00,conducción distraída,-33.153889,-70.674444
+VAR,,1559 - KVWX88 (M DE F),1/17/2020,14:05:58,Día,Distracción,Mirada ausente,"4,30",42.00,50.00,conducción distraída,-33.371667,-70.709167
+VAR,,1240 - GWKL16,1/17/2020,01:47:48,Noche,Distracción,Distracción,"3,02",62.00,52.00,conducción distraída,-33.389073,-70.632451
+VAR,,1555 - KVWX83(M DE F),1/17/2020,10:51:32,Día,Distracción,Mirada ausente,"3,36",66.00,61.00,conducción distraída,-33.323333,-70.719722
+VAR,,1555 - KVWX83(M DE F),1/17/2020,14:05:44,Día,Distracción,Mirada ausente,"3,99",77.00,85.00,conducción distraída,-33.382222,-70.755000
+VAR,,1672 - LRTK89,1/17/2020,12:36:48,Día,Distracción,Mirada ausente,"3,13",84.00,73.00,conducción distraída,-33.355000,-70.705556
+VAR,,1560 - KVWX89(M DE F),1/17/2020,15:47:09,Día,Distracción,Mirada ausente,"3,47",89.00,86.00,conducción distraída,-33.428056,-70.784167
+VAR,,1671- LRTK88,1/17/2020,13:44:50,Día,Distracción,Distracción,"3,50",90.00,87.00,conducción distraída,-33.809895,-70.749550
+VAR,,1368 - HWVV83,1/18/2020,14:28:58,Día,Distracción,Fatiga,"4,31",23.00,27.00,conducción distraída,-33.148333,-70.286389
+VAR,,1650- LLWZ31,1/18/2020,00:33:34,Noche,Distracción,Distracción,"3,92",36.00,40.00,conducción distraída,-33.367646,-70.500366
+VAR,,1655- LLWZ25,1/19/2020,04:14:11,Noche,Distracción,Distracción,"3,52",37.00,36.00,conducción distraída,-33.363402,-70.384921
+VAR,,1670 - LRTK87,1/20/2020,16:01:35,Día,Distracción,Ojos cerrados,"3,64",33.00,33.00,conducción distraída,-33.148056,-70.695833
+VAR,,1670 - LRTK87,1/20/2020,16:01:52,Día,Distracción,Ojos cerrados,"3,22",34.00,30.00,conducción distraída,-33.148611,-70.694444
+VAR,,1670 - LRTK87,1/20/2020,16:02:16,Día,Distracción,Ojos cerrados,"3,54",34.00,33.00,conducción distraída,-33.149722,-70.692222
+VAR,,1650- LLWZ31,1/20/2020,12:44:44,Día,Distracción,Distracción,"3,68",42.00,43.00,conducción distraída,-33.155945,-70.650375
+VAR,,1242 - GWKL18,1/20/2020,14:48:45,Día,Distracción,Fatiga,"1,72",86.00,41.00,notificación de conducir distraído,-33.362778,-70.701944
+VAR,,1240 - GWKL16,1/20/2020,12:17:08,Día,Distracción,Distracción,"3,20",87.00,77.00,conducción distraída,-33.303233,-70.728395
+VAR,,1240 - GWKL16,1/20/2020,12:17:13,Día,Distracción,Distracción,"3,31",87.00,80.00,conducción distraída,-33.302619,-70.728674
+VAR,,1650- LLWZ31,1/20/2020,09:49:08,Día,Distracción,Distracción,"3,50",88.00,86.00,conducción distraída,-33.205005,-70.665371
+VAR,,1671- LRTK88,1/20/2020,11:40:14,Día,Distracción,Distracción,"3,13",90.00,78.00,conducción distraída,-33.658508,-70.716434
+VAR,,1651 - LPBX91,1/20/2020,12:16:02,Día,Distracción,Distracción,"3,42",90.00,86.00,conducción distraída,-33.257432,-70.748948
+VAR,,1368 - HWVV83,1/21/2020,17:34:23,Día,Distracción,Fatiga,"1,80",40.00,20.00,conducción distraída,-33.364444,-70.477778
+VAR,,1657 - LLWZ34,1/21/2020,13:57:36,Día,Distracción,Fatiga,"1,93",81.00,44.00,conducción distraída,-33.287611,-70.735711
+VAR,,1555 - KVWX83(M DE F),1/21/2020,15:37:38,Día,Distracción,Mirada ausente,"4,10",88.00,100.00,conducción distraída,-32.852778,-70.902500
+VAR,,1653- LLWZ29,1/21/2020,13:18:53,Día,Distracción,Distracción,"3,28",90.00,82.00,conducción distraída,-33.331011,-70.696662
+VAR,,1671- LRTK88,1/22/2020,10:01:25,Día,Distracción,Distracción,"3,59",39.00,39.00,conducción distraída,-33.156244,-70.650168
+VAR,,1657 - LLWZ34,1/22/2020,09:59:01,Día,Distracción,Distracción,"3,17",43.00,38.00,conducción distraída,-33.154202,-70.671468
+VAR,,1655- LLWZ25,1/22/2020,10:42:09,Día,Distracción,Distracción,"3,52",46.00,44.00,conducción distraída,-33.168818,-70.640113
+VAR,,1555 - KVWX83(M DE F),1/22/2020,11:34:26,Día,Distracción,Mirada ausente,"3,27",68.00,62.00,conducción distraída,-33.248889,-70.752778
+VAR,,1555 - KVWX83(M DE F),1/22/2020,11:33:30,Día,Distracción,Mirada ausente,"3,60",72.00,72.00,conducción distraída,-33.257778,-70.748889
+VAR,,1651 - LPBX91,1/22/2020,02:09:46,Noche,Distracción,Fatiga,"1,52",87.00,37.00,conducción distraída,-33.574695,-71.511242
+VAR,,1671- LRTK88,1/22/2020,03:11:23,Noche,Distracción,Distracción,"3,04",88.00,74.00,conducción distraída,-33.620941,-71.415322
+VAR,,1671- LRTK88,1/22/2020,01:06:55,Noche,Distracción,Distracción,"3,09",89.00,77.00,conducción distraída,-33.498271,-70.789948
+VAR,Braulio Díaz,1671- LRTK88,1/23/2020,19:07:27,Día,Distracción,Fatiga,"2,00",26.00,14.00,uso del teléfono móvil,-33.380513,-70.751127
+VAR,,1242 - GWKL18,1/23/2020,23:34:58,Noche,Distracción,Fatiga,"2,79",19.00,15.00,conducción distraída,-33.146389,-70.310278
+VAR,,1671- LRTK88,1/23/2020,19:08:52,Día,Distracción,Fatiga,"1,96",31.00,17.00,notificación de conducir distraído,-33.384046,-70.748372
+VAR,,1671- LRTK88,1/23/2020,21:03:50,Noche,Distracción,Fatiga,"1,67",89.00,41.00,conducción distraída,-33.385928,-70.636952
+VAR,,1653- LLWZ29,1/23/2020,07:55:54,Día,Distracción,Distracción,"3,55",91.00,90.00,conducción distraída,-33.303344,-70.699587
+VAR,,1563 - KVWX92(MDEF),1/24/2020,09:09:25,Día,Distracción,Fatiga,"1,70",29.00,13.00,conducción distraída,-33.145556,-70.698611
+VAR,,1670 - LRTK87,1/24/2020,00:14:07,Noche,Distracción,Mirada ausente,"3,09",33.00,28.00,conducción distraída,-33.367778,-70.500833
+VAR,,1652 - LLWZ24(mdef),1/24/2020,14:30:52,Día,Distracción,Fatiga,"1,74",72.00,35.00,conducción distraída,-33.427537,-70.784016
+VAR,,1555 - KVWX83(M DE F),1/24/2020,15:34:04,Día,Distracción,Mirada ausente,"3,08",83.00,71.00,conducción distraída,-33.324444,-70.718889
+VAR,,1651 - LPBX91,1/25/2020,04:42:06,Noche,Distracción,Fatiga,"2,05",90.00,52.00,conducción distraída,-33.681746,-71.079052
+VAR,,1655- LLWZ25,1/26/2020,00:06:36,Noche,Distracción,Fatiga,"1,57",24.00,10.00,conducción distraída,-33.370253,-70.507335
+VAR,,1651 - LPBX91,1/27/2020,09:52:36,Día,Distracción,Fatiga,"1,65",30.00,14.00,conducción distraída,-33.334870,-70.713808
+VAR,,1240 - GWKL16,1/27/2020,23:32:40,Noche,Distracción,Distracción,"3,02",42.00,35.00,conducción distraída,-33.163080,-70.322679
+VAR,,1652 - LLWZ24(mdef),1/27/2020,09:45:13,Día,Distracción,Distracción,"3,44",88.00,84.00,conducción distraída,-33.292905,-70.733057
+VAR,,1651 - LPBX91,1/28/2020,11:33:12,Día,Distracción,Fatiga,"2,20",60.00,37.00,conducción distraída,-33.295122,-70.732331
+VAR,,1651 - LPBX91,1/28/2020,11:33:17,Día,Distracción,Fatiga,"1,94",61.00,33.00,conducción distraída,-33.295845,-70.732003
+VAR,,1651 - LPBX91,1/28/2020,14:55:31,Día,Distracción,Distracción,"3,07",69.00,59.00,conducción distraída,-33.338195,-70.713037
+VAR,,1651 - LPBX91,1/28/2020,04:29:31,Noche,Distracción,Fatiga,"1,78",89.00,44.00,conducción distraída,-33.662743,-71.247866
+VAR,,1555 - KVWX83(M DE F),1/29/2020,13:10:45,Día,Distracción,Mirada ausente,"3,50",31.00,30.00,conducción distraída,-33.388333,-70.756944
+VAR,,1651 - LPBX91,1/29/2020,01:02:08,Noche,Distracción,Distracción,"3,13",37.00,32.00,conducción distraída,-33.376232,-70.533795
+VAR,,1558- KVWX87,1/29/2020,23:39:53,Noche,Distracción,Mirada ausente,"3,77",39.00,41.00,conducción distraída,-33.386944,-70.759167
+VAR,,1555 - KVWX83(M DE F),1/29/2020,17:53:01,Día,Distracción,Mirada ausente,"3,79",43.00,45.00,conducción distraída,-33.388056,-70.757500
+VAR,,1650- LLWZ31,1/29/2020,02:19:13,Noche,Distracción,Fatiga,"2,50",78.00,54.00,conducción distraída,-33.590905,-71.493506
+VAR,,1650- LLWZ31,1/29/2020,01:08:13,Noche,Distracción,Distracción,"3,35",87.00,81.00,conducción distraída,-33.425128,-70.691608
+VAR,,1669 - LRTK86,1/29/2020,02:03:24,Noche,Distracción,Fatiga,"1,52",89.00,38.00,conducción distraída,-33.661883,-71.248874
+VAR,,1650- LLWZ31,1/29/2020,03:37:47,Noche,Distracción,Distracción,"3,15",90.00,78.00,conducción distraída,-33.653369,-71.302624
+VAR,,1657 - LLWZ34,1/29/2020,09:03:59,Día,Distracción,Fatiga,"1,59",90.00,40.00,notificación de conducir distraído,-33.223765,-70.681068
+VAR,,1240 - GWKL16,1/30/2020,13:58:56,Día,Distracción,Distracción,"3,13",37.00,32.00,conducción distraída,-33.385566,-70.758770
+VAR,,1651 - LPBX91,1/30/2020,22:10:27,Noche,Distracción,Distracción,"3,05",37.00,32.00,conducción distraída,-33.201673,-70.338395
+VAR,,1653- LLWZ29,1/30/2020,01:03:28,Noche,Distracción,Distracción,"3,39",63.00,59.00,conducción distraída,-33.369037,-70.519047
+VAR,,1671- LRTK88,1/30/2020,10:01:07,Día,Distracción,Fatiga,"1,65",77.00,35.00,conducción distraída,-33.306748,-70.726815
+VAR,,1650- LLWZ31,1/30/2020,04:14:35,Noche,Distracción,Distracción,"3,07",89.00,76.00,conducción distraída,-33.572417,-71.515350
+VAR,,1672 - LRTK89,1/31/2020,17:14:21,Día,Distracción,Mirada ausente,"3,13",78.00,68.00,conducción distraída,-33.201944,-70.663056
+VAR,,1650- LLWZ31,1/31/2020,02:16:46,Noche,Distracción,Distracción,"3,20",86.00,77.00,conducción distraída,-33.614895,-71.437187
+VAR,,1651 - LPBX91,1/31/2020,01:51:26,Noche,Distracción,Distracción,"3,76",87.00,91.00,conducción distraída,-33.676052,-71.095520
+VAR,,1240 - GWKL16,2/1/2020,01:59:51,Noche,Distracción,Distracción,"3,50",44.00,43.00,conducción distraída,-33.387892,-70.754498
+VAR,,1650- LLWZ31,2/1/2020,03:06:12,Noche,Distracción,Distracción,"3,66",50.00,51.00,conducción distraída,-33.592496,-71.588025
+VAR,,1559 - KVWX88 (M DE F),2/3/2020,10:20:38,Día,Distracción,Mirada ausente,"3,64",30.00,30.00,conducción distraída,-33.620833,-70.698889
+VAR,,1240 - GWKL16,2/3/2020,22:56:21,Noche,Distracción,Distracción,"3,52",36.00,36.00,conducción distraída,-33.198119,-70.338781
+VAR,,1240 - GWKL16,2/3/2020,23:52:03,Noche,Distracción,Distracción,"3,11",36.00,31.00,conducción distraída,-33.160143,-70.329687
+VAR,,1240 - GWKL16,2/3/2020,23:53:35,Noche,Distracción,Distracción,"3,48",36.00,35.00,conducción distraída,-33.161825,-70.331577
+VAR,,1240 - GWKL16,2/3/2020,21:42:45,Noche,Distracción,Distracción,"3,29",37.00,34.00,conducción distraída,-33.366728,-70.395677
+VAR,,1240 - GWKL16,2/3/2020,13:50:29,Día,Distracción,Distracción,"3,04",39.00,33.00,conducción distraída,-33.363529,-70.701233
+VAR,,1240 - GWKL16,2/3/2020,20:10:52,Noche,Distracción,Distracción,"3,18",78.00,69.00,conducción distraída,-33.378306,-70.651896
+VAR,,1242 - GWKL18,2/3/2020,14:02:43,Día,Distracción,Fatiga,"1,52",87.00,37.00,conducción distraída,-33.711944,-70.724722
+VAR,,1240 - GWKL16,2/4/2020,23:09:18,Noche,Distracción,Fatiga,"2,00",18.00,10.00,conducción distraída,-33.207824,-70.339269
+VAR,,1242 - GWKL18,2/4/2020,15:30:33,Día,Distracción,Fatiga,"2,65",19.00,14.00,conducción distraída,-33.388611,-70.755000
+VAR,,1240 - GWKL16,2/4/2020,23:15:18,Noche,Distracción,Fatiga,"1,89",19.00,10.00,conducción distraída,-33.184842,-70.337598
+VAR,,1240 - GWKL16,2/4/2020,00:04:13,Noche,Distracción,Distracción,"3,28",35.00,32.00,conducción distraída,-33.201012,-70.338105
+VAR,,1240 - GWKL16,2/4/2020,00:03:58,Noche,Distracción,Distracción,"3,44",37.00,36.00,conducción distraída,-33.199772,-70.338168
+VAR,,1240 - GWKL16,2/4/2020,01:36:22,Noche,Distracción,Distracción,"3,02",43.00,36.00,conducción distraída,-33.368715,-70.502688
+VAR,,1240 - GWKL16,2/4/2020,01:36:18,Noche,Distracción,Distracción,"3,11",47.00,41.00,conducción distraída,-33.368510,-70.502247
+VAR,,1240 - GWKL16,2/4/2020,01:46:35,Noche,Distracción,Distracción,"3,41",50.00,48.00,conducción distraída,-33.388477,-70.598004
+VAR,,1240 - GWKL16,2/4/2020,01:45:03,Noche,Distracción,Distracción,"3,04",75.00,63.00,conducción distraída,-33.381258,-70.583814
+VAR,,1659 - LLWZ27,2/5/2020,18:23:22,Día,Distracción,Mirada ausente,"4,15",31.00,35.00,conducción distraída,-33.369444,-70.705556
+VAR,,1240 - GWKL16,2/5/2020,23:56:04,Noche,Distracción,Distracción,"3,20",35.00,31.00,conducción distraída,-33.167903,-70.336374
+VAR,,1240 - GWKL16,2/5/2020,00:42:24,Noche,Distracción,Fatiga,"2,15",37.00,22.00,conducción distraída,-33.308678,-70.357128
+VAR,,1650- LLWZ31,2/5/2020,12:30:28,Día,Distracción,Distracción,"3,37",37.00,35.00,conducción distraída,-33.146101,-70.696998
+VAR,,1240 - GWKL16,2/5/2020,00:33:34,Noche,Distracción,Distracción,"3,83",38.00,40.00,conducción distraída,-33.271213,-70.351547
+VAR,,1650- LLWZ31,2/5/2020,12:29:50,Día,Distracción,Distracción,"3,52",38.00,37.00,conducción distraída,-33.147464,-70.692986
+VAR,,1650- LLWZ31,2/5/2020,16:02:23,Día,Distracción,Distracción,"3,39",38.00,36.00,conducción distraída,-33.148491,-70.694791
+VAR,,1240 - GWKL16,2/5/2020,14:21:56,Día,Distracción,Distracción,"3,13",43.00,38.00,conducción distraída,-33.388299,-70.756900
+VAR,,1242 - GWKL18,2/5/2020,13:27:15,Día,Distracción,Fatiga,"2,60",55.00,39.00,conducción distraída,-33.589722,-71.586389
+VAR,,1240 - GWKL16,2/5/2020,15:51:19,Día,Distracción,Distracción,"3,11",56.00,48.00,conducción distraída,-33.281653,-70.738356
+VAR,,1240 - GWKL16,2/5/2020,01:36:24,Noche,Distracción,Distracción,"3,24",73.00,65.00,conducción distraída,-33.376217,-70.559628
+VAR,,1240 - GWKL16,2/5/2020,14:35:08,Día,Distracción,Distracción,"3,07",81.00,69.00,conducción distraída,-33.294279,-70.732411
+VAR,,1671- LRTK88,2/5/2020,10:17:45,Día,Distracción,Distracción,"3,04",89.00,75.00,conducción distraída,-33.207055,-70.667086
+VAR,Cristian Saavedra,1667 - LRTK84,2/6/2020,15:56:21,Día,Fatiga,Fatiga,"2,18",20.00,12.00,somnolencia,-33.315299,-70.722688
+VAR,,1240 - GWKL16,2/6/2020,00:56:57,Noche,Distracción,Distracción,"3,02",35.00,29.00,conducción distraída,-33.367351,-70.396367
+VAR,,1240 - GWKL16,2/6/2020,01:18:48,Noche,Distracción,Distracción,"3,59",37.00,36.00,conducción distraída,-33.365061,-70.468850
+VAR,,1240 - GWKL16,2/6/2020,01:26:45,Noche,Distracción,Distracción,"3,26",37.00,34.00,conducción distraída,-33.366972,-70.496784
+VAR,,1240 - GWKL16,2/6/2020,01:28:03,Noche,Distracción,Distracción,"3,50",37.00,36.00,conducción distraída,-33.369743,-70.505022
+VAR,,1240 - GWKL16,2/6/2020,02:04:56,Noche,Distracción,Distracción,"4,15",41.00,47.00,conducción distraída,-33.388498,-70.756757
+VAR,,1240 - GWKL16,2/6/2020,01:30:06,Noche,Distracción,Distracción,"3,13",42.00,36.00,conducción distraída,-33.367698,-70.512188
+VAR,,1240 - GWKL16,2/6/2020,01:28:35,Noche,Distracción,Distracción,"3,81",46.00,48.00,conducción distraída,-33.370324,-70.509040
+VAR,,1240 - GWKL16,2/6/2020,01:49:21,Noche,Distracción,Distracción,"3,07",47.00,40.00,conducción distraída,-33.390147,-70.603827
+VAR,,1240 - GWKL16,2/6/2020,01:31:12,Noche,Distracción,Distracción,"3,15",48.00,42.00,conducción distraída,-33.366724,-70.515564
+VAR,,1240 - GWKL16,2/6/2020,02:03:27,Noche,Distracción,Distracción,"3,35",60.00,56.00,conducción distraída,-33.385333,-70.759206
+VAR,,1670 - LRTK87,2/6/2020,17:50:01,Día,Distracción,Ojos cerrados,"3,34",61.00,57.00,conducción distraída,-33.568889,-71.528056
+VAR,,1240 - GWKL16,2/6/2020,02:03:23,Noche,Distracción,Distracción,"3,35",62.00,58.00,conducción distraída,-33.384904,-70.758705
+VAR,,1240 - GWKL16,2/6/2020,01:32:10,Noche,Distracción,Distracción,"3,41",72.00,68.00,conducción distraída,-33.371766,-70.525065
+VAR,,1240 - GWKL16,2/6/2020,01:57:06,Noche,Distracción,Distracción,"3,16",72.00,63.00,conducción distraída,-33.366927,-70.681965
+VAR,,1240 - GWKL16,2/6/2020,01:53:21,Noche,Distracción,Distracción,"3,16",73.00,64.00,conducción distraída,-33.386796,-70.635527
+VAR,,1240 - GWKL16,2/6/2020,01:52:59,Noche,Distracción,Distracción,"3,53",74.00,72.00,conducción distraída,-33.389462,-70.631902
+VAR,,1240 - GWKL16,2/6/2020,01:53:13,Noche,Distracción,Distracción,"3,76",74.00,77.00,conducción distraída,-33.387641,-70.634387
+VAR,,1240 - GWKL16,2/6/2020,01:56:59,Noche,Distracción,Distracción,"3,37",74.00,69.00,conducción distraída,-33.367464,-70.680390
+VAR,,1240 - GWKL16,2/6/2020,01:58:26,Noche,Distracción,Distracción,"3,74",74.00,77.00,conducción distraída,-33.366016,-70.699743
+VAR,,1240 - GWKL16,2/6/2020,01:58:43,Noche,Distracción,Distracción,"3,24",76.00,68.00,conducción distraída,-33.367649,-70.702814
+VAR,,1240 - GWKL16,2/6/2020,02:00:37,Noche,Distracción,Distracción,"3,18",77.00,68.00,conducción distraída,-33.372779,-70.727057
+VAR,,1240 - GWKL16,2/6/2020,01:57:19,Noche,Distracción,Distracción,"3,78",78.00,82.00,conducción distraída,-33.366415,-70.684900
+VAR,,1240 - GWKL16,2/6/2020,02:00:12,Noche,Distracción,Distracción,"3,37",78.00,73.00,conducción distraída,-33.373436,-70.721325
+VAR,,1240 - GWKL16,2/6/2020,01:55:03,Noche,Distracción,Distracción,"3,24",79.00,71.00,conducción distraída,-33.376743,-70.655521
+VAR,,1240 - GWKL16,2/6/2020,02:00:02,Noche,Distracción,Distracción,"3,50",79.00,76.00,conducción distraída,-33.373697,-70.719022
+VAR,,1240 - GWKL16,2/6/2020,02:01:02,Noche,Distracción,Distracción,"3,28",79.00,72.00,conducción distraída,-33.372091,-70.732892
+VAR,,1240 - GWKL16,2/6/2020,02:02:35,Noche,Distracción,Distracción,"3,35",79.00,74.00,conducción distraída,-33.378581,-70.751015
+VAR,,1240 - GWKL16,2/6/2020,01:43:35,Noche,Distracción,Distracción,"3,54",80.00,79.00,conducción distraída,-33.376174,-70.558915
+VAR,,1240 - GWKL16,2/6/2020,01:45:18,Noche,Distracción,Distracción,"3,04",80.00,68.00,conducción distraída,-33.381266,-70.583767
+VAR,,1240 - GWKL16,2/6/2020,01:59:45,Noche,Distracción,Distracción,"3,28",81.00,73.00,conducción distraída,-33.374043,-70.715000
+VAR,,1240 - GWKL16,2/6/2020,01:59:59,Noche,Distracción,Distracción,"3,16",81.00,71.00,conducción distraída,-33.373778,-70.718322
+VAR,,1240 - GWKL16,2/6/2020,01:55:56,Noche,Distracción,Distracción,"3,11",82.00,70.00,conducción distraída,-33.372405,-70.667117
+VAR,,1240 - GWKL16,2/6/2020,01:44:24,Noche,Distracción,Distracción,"3,13",83.00,72.00,conducción distraída,-33.377836,-70.571276
+VAR,,1240 - GWKL16,2/6/2020,01:56:48,Noche,Distracción,Distracción,"3,41",84.00,79.00,conducción distraída,-33.368243,-70.678279
+VAR,,1650- LLWZ31,2/6/2020,16:15:31,Día,Distracción,Distracción,"3,05",90.00,76.00,conducción distraída,-32.853078,-70.909277
+VAR,Wilson Sepulveda,1671- LRTK88,2/7/2020,09:09:54,Día,Distracción,Fatiga,"1,59",25.00,11.00,uso del teléfono móvil,-33.151220,-70.654545
+VAR,,1240 - GWKL16,2/7/2020,22:09:17,Noche,Distracción,Fatiga,"2,09",16.00,9.00,conducción distraída,-33.270192,-70.351503
+VAR,,1672 - LRTK89,2/7/2020,13:30:35,Día,Distracción,Mirada ausente,"3,05",30.00,25.00,conducción distraída,-33.158611,-70.297500
+VAR,,1670 - LRTK87,2/7/2020,15:33:38,Día,Distracción,Ojos cerrados,"3,49",37.00,36.00,conducción distraída,-33.082222,-70.785556
+VAR,,1653- LLWZ29,2/7/2020,00:15:09,Noche,Distracción,Distracción,"3,33",38.00,36.00,conducción distraída,-33.375654,-70.750218
+VAR,,1671- LRTK88,2/7/2020,13:34:37,Día,Distracción,Fatiga,"2,11",42.00,24.00,conducción distraída,-33.388223,-70.757178
+VAR,,1671- LRTK88,2/7/2020,22:00:11,Noche,Distracción,Distracción,"3,16",45.00,39.00,conducción distraída,-33.196492,-70.339010
+VAR,,1670 - LRTK87,2/7/2020,16:02:27,Día,Distracción,Mirada ausente,"3,24",79.00,71.00,conducción distraída,-33.116944,-70.681944
+VAR,,1653- LLWZ29,2/8/2020,09:29:43,Día,Distracción,Distracción,"7,00",38.00,74.00,conducción distraída,-33.154132,-70.668080
+VAR,,1653- LLWZ29,2/8/2020,09:14:00,Día,Distracción,Distracción,"3,78",79.00,83.00,conducción distraída,-33.157135,-70.649513
+VAR,,1559 - KVWX88 (M DE F),2/9/2020,13:50:32,Día,Distracción,Fatiga,"1,61",45.00,20.00,conducción distraída,-32.853333,-70.866389
+VAR,,1559 - KVWX88 (M DE F),2/9/2020,13:16:17,Día,Distracción,Mirada ausente,"3,38",89.00,84.00,conducción distraída,-33.209722,-70.770278
+VAR,,1555 - KVWX83(M DE F),2/10/2020,13:47:40,Día,Distracción,Fatiga,"1,95",36.00,20.00,conducción distraída,-33.163056,-70.664167
+VAR,,1671- LRTK88,2/10/2020,10:12:05,Día,Distracción,Fatiga,"1,52",39.00,16.00,conducción distraída,-33.150308,-70.684871
+VAR,,1651 - LPBX91,2/11/2020,00:38:10,Noche,Distracción,Distracción,"3,37",36.00,34.00,conducción distraída,-33.367873,-70.500905
+VAR,,1555 - KVWX83(M DE F),2/11/2020,17:42:31,Día,Distracción,Fatiga,"1,55",49.00,21.00,conducción distraída,-33.385000,-70.758333
+VAR,,1555 - KVWX83(M DE F),2/11/2020,11:30:29,Día,Distracción,Fatiga,"1,60",68.00,30.00,conducción distraída,-33.511389,-70.699722
+VAR,,1667 - LRTK84,2/11/2020,14:44:38,Día,Distracción,Fatiga,"1,87",76.00,40.00,conducción distraída,-33.380953,-70.753810
+VAR,,1650- LLWZ31,2/11/2020,01:40:54,Noche,Distracción,Distracción,"3,61",89.00,89.00,conducción distraída,-33.701427,-70.980167
+VAR,,1664 - LRTK81,2/12/2020,14:37:25,Día,Distracción,Mirada ausente,"3,45",32.00,30.00,conducción distraída,-33.179167,-70.337778
+VAR,,1650- LLWZ31,2/12/2020,02:07:17,Noche,Distracción,Distracción,"3,33",69.00,64.00,conducción distraída,-33.563851,-71.570692
+VAR,,1650- LLWZ31,2/12/2020,01:22:01,Noche,Distracción,Distracción,"3,61",89.00,89.00,conducción distraída,-33.692796,-70.957858
+VAR,,1650- LLWZ31,2/12/2020,01:39:37,Noche,Distracción,Distracción,"3,02",89.00,74.00,conducción distraída,-33.672486,-71.204367
+VAR,,1650- LLWZ31,2/12/2020,01:57:04,Noche,Distracción,Distracción,"3,68",89.00,92.00,conducción distraída,-33.611146,-71.451961
+VAR,,1650- LLWZ31,2/12/2020,02:58:39,Noche,Distracción,Distracción,"3,07",89.00,76.00,conducción distraída,-33.607056,-71.469733
+VAR,,1559 - KVWX88 (M DE F),2/12/2020,19:10:50,Día,Distracción,Mirada ausente,"6,45",89.00,160.00,conducción distraída,-32.852222,-70.895278
+VAR,,1671- LRTK88,2/12/2020,11:13:59,Día,Distracción,Distracción,"3,20",90.00,80.00,conducción distraída,-32.852914,-70.908992
+VAR,,1242 - GWKL18,2/13/2020,16:43:36,Día,Distracción,Fatiga,"2,62",16.00,12.00,conducción distraída,-33.382778,-70.742222
+VAR,,1670 - LRTK87,2/13/2020,00:52:32,Noche,Distracción,Mirada ausente,"3,43",30.00,28.00,conducción distraída,-33.368889,-70.502778
+VAR,,1657 - LLWZ34,2/13/2020,13:04:58,Día,Distracción,Distracción,"3,81",36.00,38.00,conducción distraída,-33.148774,-70.694193
+VAR,,1672 - LRTK89,2/13/2020,12:36:02,Día,Distracción,Fatiga,"1,87",43.00,22.00,conducción distraída,-33.146944,-70.308056
+VAR,,1650- LLWZ31,2/13/2020,02:18:46,Noche,Distracción,Distracción,"3,35",71.00,66.00,conducción distraída,-33.599855,-71.597572
+VAR,,1555 - KVWX83(M DE F),2/13/2020,14:29:17,Día,Distracción,Fatiga,"1,68",77.00,36.00,conducción distraída,-33.453611,-70.690833
+VAR,,1651 - LPBX91,2/14/2020,00:37:31,Noche,Distracción,Fatiga,"1,72",30.00,15.00,conducción distraída,-33.366975,-70.495877
+VAR,,1672 - LRTK89,2/14/2020,12:34:06,Día,Distracción,Fatiga,"1,60",30.00,13.00,conducción distraída,-33.306944,-70.360000
+VAR,,1559 - KVWX88 (M DE F),2/14/2020,08:40:47,Día,Distracción,Fatiga,"1,67",59.00,27.00,conducción distraída,-33.092500,-70.724167
+VAR,,1650- LLWZ31,2/14/2020,04:21:20,Noche,Distracción,Distracción,"3,13",86.00,75.00,conducción distraída,-33.371997,-70.733478
+VAR,,1240 - GWKL16,2/14/2020,01:39:47,Noche,Distracción,Distracción,"6,24",89.00,155.00,notificación de conducir distraído,-33.374375,-70.546418
+VAR,,1650- LLWZ31,2/15/2020,02:06:11,Noche,Distracción,Distracción,"3,33",90.00,83.00,conducción distraída,-33.703729,-70.991459
+VAR,,1671- LRTK88,2/17/2020,11:41:31,Día,Distracción,Fatiga,"1,57",59.00,26.00,conducción distraída,-33.366313,-70.689981
+VAR,,1671- LRTK88,2/17/2020,09:04:04,Día,Distracción,Distracción,"3,67",89.00,91.00,conducción distraída,-34.277869,-70.816009
+VAR,,1366-HWBD36,2/18/2020,04:55:37,Noche,Distracción,Fatiga,"1,87",27.00,14.00,conducción distraída,-33.259383,-70.347963
+VAR,,1671- LRTK88,2/18/2020,23:26:53,Noche,Distracción,Fatiga,"1,76",30.00,15.00,conducción distraída,-33.245121,-70.346601
+VAR,,1368 - HWVV83,2/18/2020,16:39:14,Día,Distracción,Mirada ausente,"3,32",33.00,30.00,conducción distraída,-33.226111,-70.344722
+VAR,,1366-HWBD36,2/18/2020,04:44:14,Noche,Distracción,Fatiga,"1,78",34.00,17.00,conducción distraída,-33.306195,-70.357919
+VAR,,1368 - HWVV83,2/18/2020,13:58:24,Día,Distracción,Fatiga,"2,94",38.00,31.00,conducción distraída,-33.302778,-70.358611
+VAR,,1650- LLWZ31,2/18/2020,12:52:31,Día,Distracción,Distracción,"3,04",90.00,75.00,conducción distraída,-33.350180,-70.693641
+VAR,,1651 - LPBX91,2/19/2020,02:08:13,Noche,Distracción,Fatiga,"2,50",89.00,62.00,conducción distraída,-33.653592,-71.339577
+VAR,,1670 - LRTK87,2/20/2020,12:41:10,Día,Distracción,Mirada ausente,"3,53",42.00,41.00,conducción distraída,-33.343889,-70.710556
+VAR,,1671- LRTK88,2/20/2020,23:35:35,Noche,Distracción,Distracción,"3,59",48.00,47.00,conducción distraída,-33.373679,-70.744829
+VAR,,1651 - LPBX91,2/20/2020,09:44:07,Día,Distracción,Fatiga,"1,57",65.00,28.00,conducción distraída,-33.372714,-70.743726
+VAR,,1651 - LPBX91,2/21/2020,23:23:35,Noche,Distracción,Fatiga,"1,57",34.00,15.00,conducción distraída,-33.197943,-70.338910
+VAR,,1671- LRTK88,2/21/2020,00:43:15,Noche,Distracción,Distracción,"3,61",37.00,38.00,conducción distraída,-33.318834,-70.361169
+VAR,,1670 - LRTK87,2/21/2020,14:43:27,Día,Distracción,Mirada ausente,"3,09",70.00,60.00,conducción distraída,-33.358056,-70.691389
+VAR,,1671- LRTK88,2/22/2020,00:32:36,Noche,Distracción,Distracción,"3,42",37.00,36.00,conducción distraída,-33.364112,-70.386226
+VAR,,1651 - LPBX91,2/24/2020,13:17:58,Día,Distracción,Fatiga,"1,50",22.00,9.00,conducción distraída,-33.180535,-70.646447
+VAR,,1563 - KVWX92(MDEF),2/24/2020,09:52:21,Día,Distracción,Mirada ausente,"3,25",31.00,28.00,conducción distraída,-33.366389,-70.700278
+VAR,,1242 - GWKL18,2/24/2020,20:51:35,Noche,Distracción,Mirada ausente,"3,40",74.00,70.00,conducción distraída,-33.373611,-70.720556
+VAR,Yeison Sepulveda,1651 - LPBX91,2/25/2020,03:07:01,Noche,Fatiga,Fatiga,"2,09",35.00,21.00,somnolencia,-33.365572,-70.392162
+VAR,,1659 - LLWZ27,2/26/2020,11:52:34,Día,Distracción,Fatiga,"1,91",23.00,12.00,conducción distraída,-33.385000,-70.751111
+VAR,,1670 - LRTK87,2/26/2020,15:13:44,Día,Distracción,Mirada ausente,"4,02",37.00,41.00,conducción distraída,-33.157500,-70.649444
+VAR,,1671- LRTK88,2/26/2020,04:21:30,Noche,Distracción,Distracción,"3,11",89.00,77.00,conducción distraída,-33.644444,-71.364351
+VAR,,1650- LLWZ31,2/26/2020,15:42:28,Día,Distracción,Distracción,"3,55",89.00,88.00,conducción distraída,-33.429657,-70.784393
+VAR,,1670 - LRTK87,2/27/2020,21:40:48,Noche,Distracción,Ojos cerrados,"4,10",39.00,44.00,conducción distraída,-33.281389,-70.351389
+VAR,,1669 - LRTK86,2/27/2020,09:42:51,Día,Distracción,Distracción,"3,63",89.00,90.00,conducción distraída,-33.231217,-70.690106
+VAR,,1650- LLWZ31,2/28/2020,00:22:10,Noche,Distracción,Distracción,"3,05",35.00,30.00,conducción distraída,-33.368766,-70.428241
+VAR,,1671- LRTK88,2/28/2020,22:18:26,Noche,Distracción,Fatiga,"1,78",41.00,20.00,conducción distraída,-33.197591,-70.338894
+VAR,,1651 - LPBX91,2/28/2020,00:27:38,Noche,Distracción,Fatiga,"1,57",86.00,38.00,conducción distraída,-33.375715,-70.532432
+VAR,,1670 - LRTK87,3/1/2020,03:18:19,Noche,Distracción,Mirada ausente,"4,67",34.00,44.00,conducción distraída,-33.388611,-70.598333
+VAR,,1670 - LRTK87,3/1/2020,03:18:19,Noche,Distracción,Mirada ausente,"4,67",34.00,44.00,conducción distraída,-33.388611,-70.598333
+VAR,,1671- LRTK88,3/1/2020,02:24:22,Noche,Distracción,Distracción,"3,31",36.00,33.00,conducción distraída,-33.301484,-70.358349
+VAR,,1671- LRTK88,3/1/2020,02:24:22,Noche,Distracción,Distracción,"3,31",36.00,33.00,conducción distraída,-33.301484,-70.358349
+VAR,,1671- LRTK88,3/2/2020,15:26:21,Día,Distracción,Fatiga,"1,59",20.00,9.00,conducción distraída,-33.140428,-70.704016
+VAR,,1671- LRTK88,3/2/2020,15:26:21,Día,Distracción,Fatiga,"1,59",20.00,9.00,conducción distraída,-33.140428,-70.704016
+VAR,,1240 - GWKL16,3/2/2020,22:19:08,Noche,Distracción,Distracción,"5,24",29.00,42.00,conducción distraída,-33.248960,-70.345434
+VAR,,1240 - GWKL16,3/2/2020,22:19:08,Noche,Distracción,Distracción,"5,24",29.00,42.00,conducción distraída,-33.248960,-70.345434
+VAR,,1669 - LRTK86,3/2/2020,12:52:35,Día,Distracción,Distracción,"3,13",35.00,31.00,conducción distraída,-33.150207,-70.690565
+VAR,,1669 - LRTK86,3/2/2020,12:52:35,Día,Distracción,Distracción,"3,13",35.00,31.00,conducción distraída,-33.150207,-70.690565
+VAR,,1240 - GWKL16,3/2/2020,19:45:57,Día,Distracción,Distracción,"4,55",62.00,79.00,conducción distraída,-33.383187,-70.751214
+VAR,,1240 - GWKL16,3/2/2020,19:45:57,Día,Distracción,Distracción,"4,55",62.00,79.00,conducción distraída,-33.383187,-70.751214
+VAR,,1670 - LRTK87,3/2/2020,13:57:43,Día,Distracción,Mirada ausente,"3,00",73.00,61.00,conducción distraída,-33.192500,-70.655000
+VAR,,1670 - LRTK87,3/2/2020,13:57:43,Día,Distracción,Mirada ausente,"3,00",73.00,61.00,conducción distraída,-33.192500,-70.655000
+VAR,,1651 - LPBX91,3/3/2020,03:47:36,Noche,Distracción,Fatiga,"1,57",27.00,12.00,conducción distraída,-33.369234,-70.503813
+VAR,,1563 - KVWX92(MDEF),3/3/2020,09:47:43,Día,Distracción,Mirada ausente,"4,32",30.00,36.00,conducción distraída,-33.365000,-70.699722
+VAR,,1242 - GWKL18,3/3/2020,12:06:19,Día,Distracción,Fatiga,"1,62",33.00,15.00,conducción distraída,-33.363056,-70.701944
+VAR,,1650- LLWZ31,3/3/2020,09:56:22,Día,Distracción,Distracción,"3,11",38.00,33.00,conducción distraída,-33.153273,-70.676335
+VAR,,1667 - LRTK84,3/3/2020,12:24:24,Día,Distracción,Fatiga,"1,76",42.00,20.00,conducción distraída,-33.152518,-70.317505
+VAR,,1557 - KVWX86(M DE F),3/3/2020,12:56:56,Día,Distracción,Fatiga,"1,59",71.00,31.00,conducción distraída,-33.548611,-70.708611
+VAR,,1651 - LPBX91,3/3/2020,13:47:33,Día,Distracción,Fatiga,"1,85",75.00,39.00,conducción distraída,-33.327207,-70.717903
+VAR,,1651 - LPBX91,3/3/2020,10:12:11,Día,Distracción,Fatiga,"2,33",76.00,49.00,conducción distraída,-33.222084,-70.679712
+VAR,,1240 - GWKL16,3/4/2020,23:02:41,Noche,Distracción,Fatiga,"1,72",21.00,10.00,conducción distraída,-33.173954,-70.337211
+VAR,,1651 - LPBX91,3/4/2020,12:28:44,Día,Distracción,Fatiga,"1,70",40.00,19.00,conducción distraída,-33.153395,-70.675887
+VAR,,1671- LRTK88,3/4/2020,12:53:22,Día,Distracción,Distracción,"5,13",89.00,126.00,conducción distraída,-33.267948,-70.699690
+VAR,,1242 - GWKL18,3/5/2020,11:10:48,Día,Distracción,Fatiga,"1,95",85.00,46.00,conducción distraída,-33.353889,-70.706111
+VAR,,1671- LRTK88,3/5/2020,04:12:36,Noche,Distracción,Fatiga,"1,74",89.00,43.00,conducción distraída,-33.497667,-70.786209
+VAR,,1650- LLWZ31,3/5/2020,16:08:29,Día,Distracción,Distracción,"3,17",89.00,78.00,conducción distraída,-33.326619,-70.702689
+VAR,,1670 - LRTK87,3/5/2020,16:30:43,Día,Distracción,Mirada ausente,"3,24",89.00,80.00,conducción distraída,-33.287500,-70.701944
+VAR,,1650- LLWZ31,3/5/2020,16:08:33,Día,Distracción,Distracción,"3,28",90.00,82.00,conducción distraída,-33.327232,-70.701917
+VAR,Patricio Monroy,1650- LLWZ31,3/6/2020,09:29:49,Día,Fatiga,Fatiga,"1,57",37.00,16.00,somnolencia,-33.154063,-70.669068
+VAR,,1240 - GWKL16,3/6/2020,01:21:03,Noche,Distracción,Distracción,"7,11",29.00,57.00,conducción distraída,-33.227213,-70.341772
+VAR,,1670 - LRTK87,3/6/2020,17:58:04,Día,Distracción,Mirada ausente,"3,42",36.00,34.00,conducción distraída,-33.705278,-70.997222
+VAR,,1650- LLWZ31,3/6/2020,09:31:11,Día,Distracción,Distracción,"3,31",37.00,34.00,conducción distraída,-33.152754,-70.677850
+VAR,,1673 - LRTK90,3/6/2020,19:59:05,Día,Distracción,Mirada ausente,"3,22",89.00,80.00,conducción distraída,-33.409722,-70.782222
+VAR,Braulio Diaz,1671- LRTK88,3/7/2020,01:49:47,Noche,Fatiga,Distracción,"3,20",89.00,79.00,somnolencia,-33.703763,-70.991329
+VAR,,1560 - KVWX89(M DE F),3/7/2020,17:26:13,Día,Distracción,Mirada ausente,"3,20",31.00,28.00,conducción distraída,-33.157778,-70.296111
+VAR,,1673 - LRTK90,3/7/2020,02:49:31,Noche,Distracción,Mirada ausente,"3,47",37.00,36.00,conducción distraída,-33.248889,-70.345278
+VAR,,1658 - LLWZ23,3/7/2020,16:24:27,Día,Distracción,Distracción,"3,91",51.00,55.00,conducción distraída,-33.165176,-70.324124
+VAR,,1671- LRTK88,3/7/2020,01:48:37,Noche,Distracción,Fatiga,"1,50",90.00,37.00,conducción distraída,-33.699978,-70.972957
+VAR,,1671- LRTK88,3/9/2020,21:57:26,Noche,Distracción,Fatiga,"2,09",15.00,9.00,conducción distraída,-33.261717,-70.349566
+VAR,,1651 - LPBX91,3/10/2020,23:53:03,Noche,Distracción,Fatiga,"2,78",29.00,22.00,conducción distraída,-33.264893,-70.350201
+VAR,,1670 - LRTK87,3/10/2020,23:14:24,Noche,Distracción,Mirada ausente,"3,37",30.00,28.00,conducción distraída,-33.197500,-70.339167
+VAR,,1670 - LRTK87,3/10/2020,02:01:25,Noche,Distracción,Mirada ausente,"3,28",88.00,80.00,conducción distraída,-33.668056,-71.239722
+VAR,,1664 - LRTK81,3/11/2020,13:30:50,Día,Distracción,Ojos cerrados,"3,64",30.00,31.00,conducción distraída,-33.158056,-70.301111
+VAR,,1240 - GWKL16,3/11/2020,02:46:43,Noche,Distracción,Fatiga,"1,80",36.00,18.00,notificación de conducir distraído,-33.216607,-70.341024
+VAR,,1651 - LPBX91,3/11/2020,00:55:06,Noche,Distracción,Distracción,"3,15",37.00,33.00,conducción distraída,-33.367004,-70.497555
+VAR,,1669 - LRTK86,3/11/2020,09:56:27,Día,Distracción,Distracción,"3,83",38.00,40.00,conducción distraída,-33.154141,-70.664017
+VAR,,1673 - LRTK90,3/11/2020,01:08:27,Noche,Distracción,Mirada ausente,"3,77",39.00,41.00,conducción distraída,-33.276667,-70.350833
+VAR,,1664 - LRTK81,3/11/2020,13:41:38,Día,Distracción,Mirada ausente,"3,25",41.00,37.00,conducción distraída,-33.159167,-70.330556
+VAR,,1651 - LPBX91,3/11/2020,04:46:42,Noche,Distracción,Distracción,"3,41",56.00,53.00,conducción distraída,-33.705443,-70.998977
+VAR,,1559 - KVWX88 (M DE F),3/11/2020,16:55:21,Día,Distracción,Fatiga,"1,55",61.00,26.00,conducción distraída,-33.318889,-70.721667
+VAR,,1671- LRTK88,3/11/2020,08:12:44,Día,Distracción,Distracción,"3,04",81.00,68.00,conducción distraída,-33.222633,-70.679990
+VAR,,1555 - KVWX83(M DE F),3/11/2020,10:18:31,Día,Distracción,Mirada ausente,"3,60",87.00,87.00,conducción distraída,-33.288889,-70.701667
+VAR,,1669 - LRTK86,3/11/2020,15:32:48,Día,Distracción,Distracción,"3,78",89.00,94.00,conducción distraída,-33.509266,-70.723516
+VAR,,1240 - GWKL16,3/12/2020,22:52:51,Noche,Distracción,Fatiga,"1,57",20.00,9.00,conducción distraída,-33.161001,-70.331958
+VAR,,1650- LLWZ31,3/12/2020,11:30:32,Día,Distracción,Fatiga,"2,22",22.00,14.00,conducción distraída,-33.140877,-70.702434
+VAR,,1368 - HWVV83,3/12/2020,17:56:15,Día,Distracción,Mirada ausente,"3,71",31.00,32.00,conducción distraída,-33.414167,-70.614167
+VAR,,1650- LLWZ31,3/12/2020,00:15:08,Noche,Distracción,Distracción,"4,15",35.00,41.00,conducción distraída,-33.356520,-70.372820
+VAR,,1650- LLWZ31,3/12/2020,01:16:46,Noche,Distracción,Distracción,"3,18",39.00,35.00,conducción distraída,-33.376270,-70.533904
+VAR,,1671- LRTK88,3/12/2020,14:57:38,Día,Distracción,Distracción,"4,41",59.00,72.00,conducción distraída,-33.279830,-70.739153
+VAR,,1671- LRTK88,3/12/2020,20:32:23,Noche,Distracción,Distracción,"3,20",81.00,72.00,conducción distraída,-33.378468,-70.651309
+VAR,,1555 - KVWX83(M DE F),3/12/2020,17:41:22,Día,Distracción,Mirada ausente,"3,18",88.00,78.00,conducción distraída,-33.245556,-70.697778
+VAR,,1650- LLWZ31,3/12/2020,09:02:42,Día,Distracción,Distracción,"3,15",89.00,78.00,conducción distraída,-33.263325,-70.699070
+VAR,,1650- LLWZ31,3/12/2020,12:34:45,Día,Distracción,Distracción,"3,26",89.00,80.00,conducción distraída,-33.621817,-70.714962
+VAR,,1243 - GWKL19,3/13/2020,22:45:18,Noche,Distracción,Fatiga,"1,59",30.00,13.00,conducción distraída,-33.158333,-70.322500
+VAR,,1242 - GWKL18,3/13/2020,00:48:44,Noche,Distracción,Mirada ausente,"3,95",34.00,37.00,conducción distraída,-33.174722,-70.336944
+VAR,,1669 - LRTK86,3/13/2020,00:37:11,Noche,Distracción,Fatiga,"1,63",35.00,16.00,conducción distraída,-33.370348,-70.509551
+VAR,,1650- LLWZ31,3/13/2020,21:52:28,Noche,Distracción,Distracción,"3,29",38.00,34.00,conducción distraída,-33.301295,-70.358371
+VAR,,1671- LRTK88,3/13/2020,16:59:47,Día,Distracción,Distracción,"3,22",68.00,61.00,conducción distraída,-33.365833,-70.693386
+VAR,,1650- LLWZ31,3/13/2020,00:44:26,Noche,Distracción,Distracción,"3,55",90.00,89.00,conducción distraída,-33.376408,-70.561335
+VAR,,1670 - LRTK87,3/14/2020,02:33:52,Noche,Distracción,Mirada ausente,"3,07",88.00,75.00,conducción distraída,-33.566944,-71.535556
+VAR,,1563 - KVWX92(MDEF),3/15/2020,19:32:16,Día,Distracción,Mirada ausente,"3,20",33.00,30.00,conducción distraída,-33.146111,-70.697222
+VAR,,1240 - GWKL16,3/16/2020,22:54:19,Noche,Distracción,Fatiga,"2,30",22.00,14.00,conducción distraída,-33.159156,-70.332590
+VAR,,1240 - GWKL16,3/16/2020,22:54:33,Noche,Distracción,Fatiga,"1,63",22.00,10.00,conducción distraída,-33.158371,-70.332429
+VAR,,1670 - LRTK87,3/16/2020,14:05:10,Día,Distracción,Ojos cerrados,"3,47",34.00,33.00,conducción distraída,-33.162778,-70.660278
+VAR,,1651 - LPBX91,3/16/2020,11:59:01,Día,Distracción,Fatiga,"1,89",36.00,19.00,conducción distraída,-33.153816,-70.684022
+VAR,,1650- LLWZ31,3/16/2020,11:51:50,Día,Distracción,Distracción,"4,13",38.00,44.00,conducción distraída,-33.148606,-70.689781
+VAR,,1650- LLWZ31,3/16/2020,15:04:20,Día,Distracción,Distracción,"3,66",41.00,42.00,conducción distraída,-33.153453,-70.684516
+VAR,,1670 - LRTK87,3/16/2020,14:05:40,Día,Distracción,Ojos cerrados,"3,48",43.00,41.00,conducción distraída,-33.160833,-70.657500
+VAR,,1651 - LPBX91,3/17/2020,09:00:14,Día,Distracción,Fatiga,"1,76",21.00,10.00,conducción distraída,-33.156558,-70.652697
+VAR,,1670 - LRTK87,3/17/2020,13:21:55,Día,Distracción,Ojos cerrados,"3,15",31.00,27.00,conducción distraída,-33.149722,-70.691667
+VAR,,1671- LRTK88,3/17/2020,17:44:33,Día,Distracción,Fatiga,"1,55",89.00,38.00,conducción distraída,-33.353391,-70.706190
+VAR,,1555 - KVWX83(M DE F),3/18/2020,11:13:14,Día,Distracción,Fatiga,"2,99",25.00,21.00,conducción distraída,-33.148056,-70.695833
+VAR,,1669 - LRTK86,3/18/2020,12:34:23,Día,Distracción,Fatiga,"1,93",35.00,19.00,conducción distraída,-33.162968,-70.667922
+VAR,,1240 - GWKL16,3/18/2020,23:24:36,Noche,Distracción,Fatiga,"1,56",38.00,16.00,conducción distraída,-33.209360,-70.339852
+VAR,,1555 - KVWX83(M DE F),3/18/2020,15:14:22,Día,Distracción,Fatiga,"2,30",45.00,29.00,conducción distraída,-33.155000,-70.655556
+VAR,,1240 - GWKL16,3/19/2020,22:27:58,Noche,Distracción,Fatiga,"2,02",16.00,9.00,conducción distraída,-33.280052,-70.351389
+VAR,,1664 - LRTK81,3/19/2020,02:12:04,Noche,Distracción,Mirada ausente,"3,62",31.00,31.00,conducción distraída,-33.148611,-70.286944
+VAR,,1651 - LPBX91,3/19/2020,09:37:10,Día,Distracción,Fatiga,"2,42",35.00,24.00,conducción distraída,-33.154134,-70.664595
+VAR,,1559 - KVWX88 (M DE F),3/19/2020,12:48:52,Día,Distracción,Fatiga,"1,83",86.00,44.00,conducción distraída,-33.658056,-70.895278
+VAR,,1368 - HWVV83,3/20/2020,16:16:20,Día,Distracción,Mirada ausente,"4,37",32.00,38.00,conducción distraída,-33.227500,-70.343611
+VAR,,1669 - LRTK86,3/20/2020,21:48:08,Noche,Distracción,Distracción,"3,11",35.00,31.00,conducción distraída,-33.259829,-70.348439
+VAR,,1670 - LRTK87,3/20/2020,16:15:17,Día,Distracción,Mirada ausente,"8,92",42.00,103.00,conducción distraída,-33.161667,-70.673333
+VAR,,1555 - KVWX83(M DE F),3/20/2020,12:24:25,Día,Distracción,Mirada ausente,"3,30",88.00,81.00,conducción distraída,-33.456389,-70.690000
+VAR,,1669 - LRTK86,3/21/2020,00:28:53,Noche,Distracción,Distracción,"3,06",36.00,31.00,conducción distraída,-33.367818,-70.500648
+VAR,,1240 - GWKL16,3/24/2020,00:17:13,Noche,Distracción,Fatiga,"1,92",28.00,15.00,conducción distraída,-33.158001,-70.321945
+VAR,,1563 - KVWX92(MDEF),3/24/2020,13:26:07,Día,Distracción,Mirada ausente,"3,12",30.00,26.00,conducción distraída,-33.146111,-70.697222
+VAR,,1242 - GWKL18,3/24/2020,22:44:11,Noche,Distracción,Mirada ausente,"3,17",31.00,27.00,conducción distraída,-33.159722,-70.330000
+VAR,,1673 - LRTK90,3/24/2020,03:17:42,Noche,Distracción,Mirada ausente,"4,17",38.00,43.00,conducción distraída,-33.365000,-70.467500
+VAR,,1670 - LRTK87,3/24/2020,02:26:22,Noche,Distracción,Mirada ausente,"3,42",79.00,75.00,conducción distraída,-33.576111,-71.575278
+VAR,,1559 - KVWX88 (M DE F),3/24/2020,09:24:29,Día,Distracción,Fatiga,"1,57",87.00,38.00,conducción distraída,-33.496111,-70.779444
+VAR,,1563 - KVWX92(MDEF),3/24/2020,17:30:03,Día,Distracción,Mirada ausente,"3,15",89.00,78.00,conducción distraída,-33.103056,-70.690556
+VAR,,1650- LLWZ31,3/25/2020,00:41:14,Noche,Distracción,Fatiga,"2,07",37.00,21.00,conducción distraída,-33.367318,-70.499771
+VAR,,1670 - LRTK87,3/25/2020,19:37:59,Día,Distracción,Mirada ausente,"3,49",39.00,37.00,conducción distraída,-33.381389,-70.748611
+VAR,,1673 - LRTK90,3/25/2020,08:51:32,Día,Distracción,Mirada ausente,"3,53",43.00,43.00,conducción distraída,-33.388333,-70.756667
+VAR,,1650- LLWZ31,3/25/2020,01:17:33,Noche,Distracción,Distracción,"3,11",55.00,48.00,conducción distraída,-33.513531,-70.799324
+VAR,,1563 - KVWX92(MDEF),3/25/2020,09:29:30,Día,Distracción,Mirada ausente,"3,35",66.00,61.00,conducción distraída,-32.928889,-70.811944
+VAR,,1369 - HWVV84,3/25/2020,14:28:56,Día,Distracción,Mirada ausente,"3,05",87.00,73.00,conducción distraída,-33.309722,-70.725556
+VAR,,1673 - LRTK90,3/25/2020,09:01:47,Día,Distracción,Mirada ausente,"3,77",89.00,93.00,conducción distraída,-33.333611,-70.714722
+VAR,,1563 - KVWX92(MDEF),3/26/2020,12:36:35,Día,Distracción,Fatiga,"2,67",17.00,13.00,conducción distraída,-32.916667,-70.812500
+VAR,,1671- LRTK88,3/26/2020,00:45:36,Noche,Distracción,Fatiga,"2,59",19.00,14.00,conducción distraída,-33.370563,-70.511146
+VAR,,1559 - KVWX88 (M DE F),3/26/2020,11:23:33,Día,Distracción,Fatiga,"2,90",21.00,17.00,conducción distraída,-33.320833,-70.736111
+VAR,,1560 - KVWX89(M DE F),3/26/2020,04:59:51,Noche,Distracción,Fatiga,"1,93",22.00,12.00,conducción distraída,-33.145000,-70.658611
+VAR,,1559 - KVWX88 (M DE F),3/26/2020,11:23:38,Día,Distracción,Fatiga,"2,88",24.00,19.00,conducción distraída,-33.320556,-70.735833
+VAR,,1563 - KVWX92(MDEF),3/26/2020,15:35:58,Día,Distracción,Mirada ausente,"3,22",31.00,28.00,conducción distraída,-33.095000,-70.694167
+VAR,,1098-FRJF44(M DE F),3/26/2020,19:56:46,Día,Distracción,Mirada ausente,"3,35",37.00,34.00,conducción distraída,-33.153611,-70.675000
+VAR,,1650- LLWZ31,3/26/2020,05:23:34,Noche,Distracción,Distracción,"3,26",90.00,81.00,conducción distraída,-33.441358,-70.781181
+VAR,,1240 - GWKL16,3/27/2020,22:05:57,Noche,Distracción,Fatiga,"2,35",18.00,12.00,conducción distraída,-33.266271,-70.351110
+VAR,,1651 - LPBX91,3/27/2020,23:59:03,Noche,Distracción,Fatiga,"1,67",30.00,14.00,conducción distraída,-33.293225,-70.354607
+VAR,,LLVH43,3/27/2020,18:47:26,Día,Distracción,Fatiga,"1,61",52.00,23.00,notificación de cierre los ojos,-33.163043,-70.331585
+VAR,,1555 - KVWX83(M DE F),3/27/2020,18:17:30,Día,Distracción,Mirada ausente,"3,74",60.00,63.00,conducción distraída,-32.911944,-70.811667
+VAR,,1651 - LPBX91,3/27/2020,04:25:18,Noche,Distracción,Fatiga,"1,67",88.00,41.00,conducción distraída,-33.655520,-71.257685
+VAR,,1555 - KVWX83(M DE F),3/28/2020,17:09:20,Día,Distracción,Fatiga,"3,07",16.00,14.00,conducción distraída,-32.911111,-70.811944
+VAR,,1650- LLWZ31,3/28/2020,03:16:11,Noche,Distracción,Distracción,"3,66",38.00,39.00,conducción distraída,-33.365432,-70.391658
+VAR,,1368 - HWVV83,3/29/2020,12:35:58,Día,Distracción,Mirada ausente,"3,32",49.00,45.00,conducción distraída,-33.121944,-70.773056
+VAR,,1559 - KVWX88 (M DE F),3/30/2020,12:11:11,Día,Distracción,Fatiga,"3,30",16.00,14.00,conducción distraída,-33.315000,-70.722778
+VAR,,1240 - GWKL16,3/30/2020,16:13:16,Día,Distracción,Fatiga,"1,54",28.00,12.00,conducción distraída,-33.371870,-70.737006
+VAR,,1243 - GWKL19,3/30/2020,16:42:18,Día,Distracción,Mirada ausente,"3,06",36.00,31.00,conducción distraída,-33.388333,-70.754722
+VAR,,1650- LLWZ31,3/30/2020,09:43:52,Día,Distracción,Distracción,"3,87",38.00,41.00,conducción distraída,-33.148387,-70.690459
+VAR,,1555 - KVWX83(M DE F),3/30/2020,15:01:29,Día,Distracción,Fatiga,"3,54",38.00,37.00,conducción distraída,-33.154167,-70.672778
+VAR,,1368 - HWVV83,3/30/2020,15:37:24,Día,Distracción,Mirada ausente,"3,19",38.00,33.00,conducción distraída,-33.371111,-70.452222
+VAR,,1563 - KVWX92(MDEF),3/30/2020,16:33:34,Día,Distracción,Mirada ausente,"3,30",38.00,35.00,conducción distraída,-33.150556,-70.689722
+VAR,,1559 - KVWX88 (M DE F),3/30/2020,14:43:21,Día,Distracción,Fatiga,"1,98",69.00,38.00,conducción distraída,-33.373056,-70.711111
+VAR,,1559 - KVWX88 (M DE F),3/30/2020,14:45:04,Día,Distracción,Fatiga,"3,67",72.00,74.00,conducción distraída,-33.371944,-70.734444
+VAR,,1240 - GWKL16,3/30/2020,16:07:59,Día,Distracción,Fatiga,"2,89",74.00,60.00,conducción distraída,-33.360807,-70.702858
+VAR,,1555 - KVWX83(M DE F),3/30/2020,10:11:00,Día,Distracción,Mirada ausente,"3,32",88.00,81.00,conducción distraída,-33.156667,-70.649722
+VAR,,1563 - KVWX92(MDEF),3/30/2020,13:40:05,Día,Distracción,Mirada ausente,"3,15",89.00,78.00,conducción distraída,-33.135556,-70.810833
+VAR,,1242 - GWKL18,3/31/2020,21:46:09,Noche,Distracción,Fatiga,"2,67",32.00,24.00,conducción distraída,-33.301111,-70.358333
+VAR,,1559 - KVWX88 (M DE F),3/31/2020,13:26:06,Día,Distracción,Mirada ausente,"3,08",35.00,30.00,conducción distraída,-33.387778,-70.757778
+VAR,,1563 - KVWX92(MDEF),3/31/2020,16:19:11,Día,Distracción,Mirada ausente,"3,83",35.00,38.00,conducción distraída,-33.156944,-70.679444
+VAR,,1650- LLWZ31,3/31/2020,15:39:11,Día,Distracción,Distracción,"3,59",37.00,37.00,conducción distraída,-33.217137,-70.675638
+VAR,,1670 - LRTK87,3/31/2020,15:08:58,Día,Distracción,Mirada ausente,"3,90",49.00,53.00,conducción distraída,-33.383889,-70.756944
+VAR,,1673 - LRTK90,4/1/2020,01:52:04,Noche,Distracción,Mirada ausente,"3,40",36.00,34.00,conducción distraída,-33.215556,-70.341389
+VAR,,1650- LLWZ31,4/1/2020,00:30:45,Noche,Distracción,Fatiga,"1,74",38.00,18.00,conducción distraída,-33.364347,-70.478159
+VAR,,1563 - KVWX92(MDEF),4/1/2020,15:02:07,Día,Distracción,Fatiga,"2,67",78.00,58.00,conducción distraída,-33.117500,-70.770556
+VAR,,1241- GWKL17,4/2/2020,22:15:06,Noche,Distracción,Fatiga,"1,78",24.00,12.00,conducción distraída,-33.251697,-70.345059
+VAR,,1651 - LPBX91,4/2/2020,15:20:56,Día,Distracción,Fatiga,"1,89",31.00,16.00,conducción distraída,-33.092159,-70.740025
+VAR,,1650- LLWZ31,4/2/2020,09:42:59,Día,Distracción,Distracción,"3,29",47.00,43.00,conducción distraída,-33.309377,-70.701396
+VAR,,1651 - LPBX91,4/2/2020,09:50:25,Día,Distracción,Fatiga,"1,70",48.00,23.00,conducción distraída,-33.104247,-70.773354
+VAR,,1651 - LPBX91,4/2/2020,15:28:47,Día,Distracción,Fatiga,"2,11",66.00,39.00,conducción distraída,-33.108264,-70.689254
+VAR,,1671- LRTK88,4/3/2020,14:18:44,Día,Distracción,Fatiga,"3,24",16.00,14.00,conducción distraída,-33.148870,-70.689724
+VAR,,1563 - KVWX92(MDEF),4/3/2020,21:18:20,Noche,Distracción,Fatiga,"2,00",62.00,35.00,conducción distraída,-33.135000,-70.666667
+VAR,,1563 - KVWX92(MDEF),4/3/2020,00:45:25,Noche,Distracción,Mirada ausente,"3,40",89.00,84.00,conducción distraída,-33.126944,-70.818333
+VAR,,1673 - LRTK90,4/6/2020,18:51:07,Día,Distracción,Mirada ausente,"4,13",38.00,44.00,conducción distraída,-33.367222,-70.702222
+VAR,,1240 - GWKL16,4/6/2020,13:45:06,Día,Distracción,Distracción,"4,70",78.00,102.00,conducción distraída,-33.342306,-70.710785
+VAR,,1240 - GWKL16,4/7/2020,23:38:54,Noche,Distracción,Fatiga,"1,91",18.00,9.00,conducción distraída,-33.225583,-70.343016
+VAR,,1240 - GWKL16,4/7/2020,23:30:32,Noche,Distracción,Fatiga,"2,00",25.00,14.00,conducción distraída,-33.244732,-70.346585
+VAR,,1242 - GWKL18,4/7/2020,22:04:03,Noche,Distracción,Fatiga,"2,28",31.00,20.00,conducción distraída,-33.370556,-70.510278
+VAR,,1650- LLWZ31,4/7/2020,00:53:39,Noche,Distracción,Distracción,"3,20",36.00,32.00,conducción distraída,-33.294502,-70.355266
+VAR,,1669 - LRTK86,4/7/2020,13:56:01,Día,Distracción,Distracción,"3,55",36.00,36.00,conducción distraída,-33.149761,-70.691599
+VAR,,1650- LLWZ31,4/7/2020,03:34:55,Noche,Distracción,Distracción,"3,28",45.00,41.00,conducción distraída,-33.559834,-71.568783
+VAR,,1673 - LRTK90,4/7/2020,00:39:29,Noche,Distracción,Mirada ausente,"3,83",47.00,50.00,conducción distraída,-33.374167,-70.745278
+VAR,,1242 - GWKL18,4/7/2020,11:53:35,Día,Distracción,Fatiga,"2,79",80.00,62.00,conducción distraída,-33.321111,-70.706389
+VAR,,1650- LLWZ31,4/7/2020,02:45:37,Noche,Distracción,Fatiga,"1,94",88.00,47.00,conducción distraída,-33.654700,-70.889316
+VAR,,1671- LRTK88,4/7/2020,10:36:12,Día,Distracción,Distracción,"3,07",89.00,76.00,conducción distraída,-32.845918,-70.974930
+VAR,,1671- LRTK88,4/7/2020,14:19:30,Día,Distracción,Distracción,"3,02",89.00,74.00,conducción distraída,-33.135333,-70.811161
+VAR,,1559 - KVWX88 (M DE F),4/8/2020,10:39:38,Día,Distracción,Mirada ausente,"3,47",31.00,30.00,conducción distraída,-33.156111,-70.650833
+VAR,,LGGJ24,4/8/2020,09:57:01,Día,Distracción,Fatiga,"1,67",64.00,29.00,conducción distraída,-32.771204,-70.708035
+VAR,Laura Meza,1671- LRTK88,4/9/2020,00:13:37,Noche,Fatiga,Fatiga,"1,98",22.00,12.00,somnolencia,-33.188277,-70.338362
+VAR,,1241- GWKL17,4/9/2020,00:05:23,Noche,Distracción,Fatiga,"2,11",24.00,14.00,conducción distraída,-33.172949,-70.337843
+VAR,,1651 - LPBX91,4/9/2020,14:38:51,Día,Distracción,Fatiga,"2,61",33.00,24.00,conducción distraída,-33.154074,-70.672928
+VAR,,1240 - GWKL16,4/9/2020,02:30:01,Noche,Distracción,Fatiga,"1,72",38.00,18.00,conducción distraída,-33.370272,-70.508727
+VAR,,1650- LLWZ31,4/9/2020,02:51:48,Noche,Distracción,Distracción,"4,09",43.00,49.00,conducción distraída,-33.705908,-71.001978
+VAR,,1366-HWBD36,4/9/2020,11:03:22,Día,Distracción,Fatiga,"2,48",43.00,30.00,conducción distraída,-33.145765,-70.285828
+VAR,,1671- LRTK88,4/9/2020,12:18:46,Día,Distracción,Distracción,"3,33",80.00,74.00,conducción distraída,-33.208476,-70.668323
+VAR,,1555 - KVWX83(M DE F),4/9/2020,12:44:59,Día,Distracción,Mirada ausente,"3,20",85.00,75.00,conducción distraída,-33.155000,-70.794444
+VAR,,1671- LRTK88,4/9/2020,12:07:51,Día,Distracción,Distracción,"3,09",88.00,75.00,conducción distraída,-33.321298,-70.706155
+VAR,,1650- LLWZ31,4/9/2020,03:29:50,Noche,Distracción,Distracción,"3,37",89.00,83.00,conducción distraída,-33.565939,-71.539496
+VAR,,1671- LRTK88,4/10/2020,01:46:26,Noche,Distracción,Fatiga,"2,22",39.00,24.00,conducción distraída,-33.368129,-70.501373
+VAR,,1650- LLWZ31,4/10/2020,01:50:00,Noche,Distracción,Distracción,"3,13",66.00,58.00,conducción distraída,-33.367584,-70.516919
+VAR,,1671- LRTK88,4/10/2020,04:32:58,Noche,Distracción,Distracción,"4,05",68.00,76.00,conducción distraída,-33.585904,-71.582230
+VAR,,1650- LLWZ31,4/10/2020,02:56:58,Noche,Distracción,Distracción,"3,18",88.00,78.00,conducción distraída,-33.673461,-71.230272
+VAR,,1242 - GWKL18,4/10/2020,02:49:15,Noche,Distracción,Mirada ausente,"3,22",89.00,80.00,conducción distraída,-33.621111,-70.715000
+VAR,,1650- LLWZ31,4/10/2020,07:53:21,Día,Distracción,Distracción,"3,41",89.00,84.00,conducción distraída,-33.653298,-71.301807
+VAR,,1650- LLWZ31,4/13/2020,13:51:55,Día,Distracción,Fatiga,"1,52",25.00,10.00,conducción distraída,-33.146017,-70.658571
+VAR,,1240 - GWKL16,4/13/2020,16:57:35,Día,Distracción,Distracción,"5,22",34.00,49.00,conducción distraída,-33.343021,-70.694006
+VAR,,LGGJ24,4/13/2020,17:57:29,Día,Distracción,Fatiga,"1,57",35.00,15.00,conducción distraída,-32.772434,-70.716880
+VAR,,1651 - LPBX91,4/13/2020,17:50:53,Día,Distracción,Fatiga,"1,67",84.00,39.00,conducción distraída,-33.373128,-70.723460
+VAR,,1673 - LRTK90,4/13/2020,21:53:08,Noche,Distracción,Mirada ausente,"3,48",88.00,85.00,conducción distraída,-33.376111,-70.556667
+VAR,Claudio Ancamilla,1664 - LRTK81,4/14/2020,04:21:08,Noche,Fatiga,Fatiga,"1,99",19.00,10.00,somnolencia,-33.146667,-70.310278
+VAR,Claudio Ancamilla,1664 - LRTK81,4/14/2020,06:02:03,Noche,Fatiga,Fatiga,"1,67",25.00,11.00,somnolencia,-33.152778,-70.317778
+VAR,Claudio Ancamilla,1664 - LRTK81,4/14/2020,06:03:58,Noche,Fatiga,Fatiga,"2,05",25.00,14.00,somnolencia,-33.147500,-70.311389
+VAR,,1673 - LRTK90,4/14/2020,16:28:12,Día,Distracción,Mirada ausente,"3,97",35.00,38.00,conducción distraída,-33.274722,-70.746389
+VAR,,1670 - LRTK87,4/14/2020,23:25:24,Noche,Distracción,Mirada ausente,"3,40",39.00,37.00,conducción distraída,-33.196389,-70.338889
+VAR,,1650- LLWZ31,4/14/2020,13:26:58,Día,Distracción,Distracción,"3,13",47.00,41.00,conducción distraída,-33.369838,-70.706410
+VAR,,1673 - LRTK90,4/14/2020,16:19:28,Día,Distracción,Mirada ausente,"3,40",71.00,67.00,conducción distraída,-33.361389,-70.702222
+VAR,,1651 - LPBX91,4/15/2020,17:04:08,Día,Distracción,Fatiga,"2,35",16.00,11.00,conducción distraída,-33.388738,-70.755192
+VAR,,1242 - GWKL18,4/15/2020,12:34:53,Día,Distracción,Fatiga,"1,95",20.00,11.00,conducción distraída,-33.284722,-70.744722
+VAR,,1668-LRTK85,4/15/2020,10:57:22,Día,Distracción,Fatiga,"2,65",50.00,36.00,conducción distraída,-33.289444,-70.735833
+VAR,,1650- LLWZ31,4/15/2020,13:47:33,Día,Distracción,Distracción,"3,04",85.00,72.00,conducción distraída,-33.372917,-70.725484
+VAR,,1651 - LPBX91,4/16/2020,14:39:42,Día,Distracción,Fatiga,"1,54",16.00,7.00,conducción distraída,-33.156930,-70.664365
+VAR,,1669 - LRTK86,4/16/2020,01:21:25,Noche,Distracción,Distracción,"3,26",38.00,35.00,conducción distraída,-33.367609,-70.500223
+VAR,,1650- LLWZ31,4/16/2020,16:39:32,Día,Distracción,Distracción,"3,35",45.00,41.00,conducción distraída,-32.844928,-70.982437
+VAR,,1673 - LRTK90,4/16/2020,16:09:37,Día,Distracción,Mirada ausente,"3,08",61.00,52.00,conducción distraída,-33.383611,-70.756389
+VAR,,1650- LLWZ31,4/16/2020,16:46:04,Día,Distracción,Distracción,"3,61",82.00,82.00,conducción distraída,-32.851326,-70.881188
+VAR,,1650- LLWZ31,4/16/2020,14:14:53,Día,Distracción,Distracción,"3,22",88.00,78.00,conducción distraída,-33.134659,-70.811462
+VAR,,1671- LRTK88,4/17/2020,11:11:08,Día,Distracción,Fatiga,"2,02",17.00,9.00,conducción distraída,-33.143262,-70.701679
+VAR,,1669 - LRTK86,4/17/2020,15:33:38,Día,Distracción,Distracción,"3,13",38.00,33.00,conducción distraída,-33.153403,-70.681761
+VAR,,1673 - LRTK90,4/17/2020,00:50:38,Noche,Distracción,Mirada ausente,"4,64",43.00,55.00,conducción distraída,-33.390833,-70.605556
+VAR,,1559 - KVWX88 (M DE F),4/17/2020,21:23:42,Noche,Distracción,Mirada ausente,"3,28",47.00,43.00,conducción distraída,-34.345000,-70.834722
+VAR,,1673 - LRTK90,4/17/2020,00:50:18,Noche,Distracción,Mirada ausente,"3,48",49.00,47.00,conducción distraída,-33.392500,-70.607222
+VAR,,1673 - LRTK90,4/17/2020,00:57:50,Noche,Distracción,Mirada ausente,"3,05",62.00,52.00,conducción distraída,-33.375833,-70.531944
+VAR,,1669 - LRTK86,4/17/2020,05:13:01,Noche,Distracción,Distracción,"3,54",89.00,88.00,conducción distraída,-33.621717,-71.413033
+VAR,,1650- LLWZ31,4/17/2020,18:08:25,Día,Distracción,Distracción,"3,41",89.00,85.00,conducción distraída,-33.372612,-70.727921
+VAR,,1559 - KVWX88 (M DE F),4/17/2020,20:50:43,Noche,Distracción,Mirada ausente,"3,28",91.00,83.00,conducción distraída,-34.042778,-70.722778
+VAR,,1559 - KVWX88 (M DE F),4/17/2020,19:31:19,Día,Distracción,Mirada ausente,"3,28",92.00,84.00,conducción distraída,-33.784722,-70.745556
+VAR,,1673 - LRTK90,4/18/2020,04:43:50,Noche,Distracción,Mirada ausente,"3,52",47.00,46.00,conducción distraída,-33.388333,-70.756944
+VAR,,1673 - LRTK90,4/18/2020,02:18:27,Noche,Distracción,Mirada ausente,"3,50",59.00,57.00,conducción distraída,-33.203056,-70.338333
+VAR,,1649 - LLWZ28,4/18/2020,05:38:41,Noche,Distracción,Fatiga,"1,50",89.00,37.00,conducción distraída,-33.641077,-70.874070
+VAR,,1673 - LRTK90,4/19/2020,22:51:12,Noche,Distracción,Mirada ausente,"3,43",39.00,37.00,conducción distraída,-33.203333,-70.338611
+VAR,,1669 - LRTK86,4/20/2020,13:15:21,Día,Distracción,Distracción,"3,41",37.00,35.00,conducción distraída,-33.149757,-70.686580
+VAR,,1673 - LRTK90,4/20/2020,22:37:33,Noche,Distracción,Mirada ausente,"3,45",51.00,49.00,conducción distraída,-33.198611,-70.338611
+VAR,,1555 - KVWX83(M DE F),4/20/2020,15:05:04,Día,Distracción,Mirada ausente,"3,15",66.00,58.00,conducción distraída,-33.383889,-70.756944
+VAR,,1665-LRTK82,4/20/2020,15:27:36,Día,Distracción,Mirada ausente,"3,38",75.00,70.00,conducción distraída,-33.346389,-70.709444
+VAR,,1665-LRTK82,4/20/2020,15:27:25,Día,Distracción,Mirada ausente,"3,05",76.00,64.00,conducción distraída,-33.344444,-70.710278
+VAR,,1559 - KVWX88 (M DE F),4/20/2020,09:33:26,Día,Distracción,Fatiga,"1,95",80.00,43.00,conducción distraída,-33.486667,-70.751389
+VAR,,1651 - LPBX91,4/21/2020,22:06:25,Noche,Distracción,Fatiga,"1,59",17.00,8.00,conducción distraída,-33.260151,-70.348773
+VAR,,1651 - LPBX91,4/21/2020,22:14:52,Noche,Distracción,Fatiga,"1,69",24.00,11.00,conducción distraída,-33.226934,-70.343338
+VAR,,1240 - GWKL16,4/21/2020,23:45:21,Noche,Distracción,Distracción,"4,26",45.00,53.00,conducción distraída,-33.149057,-70.313278
+VAR,,1243 - GWKL19,4/21/2020,11:32:38,Día,Distracción,Fatiga,"2,15",67.00,40.00,notificación de conducir distraído,-33.345278,-70.709722
+VAR,,1650- LLWZ31,4/21/2020,02:46:49,Noche,Distracción,Distracción,"3,54",71.00,70.00,conducción distraída,-33.591133,-71.587472
+VAR,,1673 - LRTK90,4/21/2020,13:04:55,Día,Distracción,Mirada ausente,"3,47",88.00,85.00,conducción distraída,-33.373611,-70.720556
+VAR,,1673 - LRTK90,4/21/2020,16:55:27,Día,Distracción,Mirada ausente,"3,55",88.00,86.00,conducción distraída,-33.343056,-70.710833
+VAR,,1650- LLWZ31,4/21/2020,20:24:54,Noche,Distracción,Distracción,"3,05",88.00,75.00,conducción distraída,-33.370719,-70.707306
+VAR,,1650- LLWZ31,4/21/2020,10:09:32,Día,Distracción,Distracción,"3,15",90.00,78.00,conducción distraída,-33.693124,-70.724361
+VAR,,1241- GWKL17,4/22/2020,13:11:03,Día,Distracción,Fatiga,"1,52",12.00,5.00,conducción distraída,-33.383758,-70.752129
+VAR,,1240 - GWKL16,4/22/2020,22:41:56,Noche,Distracción,Distracción,"4,07",25.00,29.00,conducción distraída,-33.173167,-70.337650
+VAR,,1650- LLWZ31,4/22/2020,04:59:05,Noche,Distracción,Distracción,"3,13",89.00,78.00,conducción distraída,-33.427782,-70.783916
+VAR,,1650- LLWZ31,4/22/2020,02:24:51,Noche,Distracción,Distracción,"3,52",90.00,88.00,conducción distraída,-33.577328,-71.507552
+VAR,,1242 - GWKL18,4/23/2020,11:28:48,Día,Distracción,Mirada ausente,"3,37",32.00,29.00,conducción distraída,-33.385833,-70.759167
+VAR,,1665-LRTK82,4/23/2020,15:25:59,Día,Distracción,Fatiga,"1,98",35.00,19.00,conducción distraída,-33.146667,-70.310278
+VAR,,LLVH42,4/23/2020,06:50:15,Noche,Distracción,Distracción,"3,28",48.00,44.00,conducción distraída,-33.151918,-70.316251
+VAR,,1242 - GWKL18,4/23/2020,11:23:18,Día,Distracción,Fatiga,"1,53",61.00,26.00,conducción distraída,-33.372500,-70.710556
+VAR,,1671- LRTK88,4/23/2020,15:21:39,Día,Distracción,Distracción,"3,42",88.00,84.00,conducción distraída,-33.352818,-70.706416
+VAR,,1240 - GWKL16,4/24/2020,22:20:13,Noche,Distracción,Fatiga,"2,31",21.00,14.00,conducción distraída,-33.243272,-70.345886
+VAR,,1671- LRTK88,4/24/2020,02:33:07,Noche,Distracción,Fatiga,"2,50",29.00,20.00,conducción distraída,-33.194913,-70.338906
+VAR,,1651 - LPBX91,4/24/2020,10:21:37,Día,Distracción,Fatiga,"1,54",30.00,13.00,conducción distraída,-33.145067,-70.699850
+VAR,,1670 - LRTK87,4/24/2020,20:38:22,Noche,Distracción,Mirada ausente,"3,80",32.00,33.00,conducción distraída,-33.390556,-70.600833
+VAR,,1671- LRTK88,4/24/2020,03:51:26,Noche,Distracción,Fatiga,"2,00",40.00,22.00,conducción distraída,-33.367487,-70.500083
+VAR,,1671- LRTK88,4/24/2020,09:36:14,Día,Distracción,Distracción,"3,29",89.00,81.00,conducción distraída,-33.818860,-70.751130
+VAR,Luis Soto,1649 - LLWZ28,4/27/2020,23:24:36,Noche,Distracción,Distracción,"9,56",115.00,306.00,uso del teléfono móvil,-33.260022,-70.348085
+VAR,,1241- GWKL17,4/27/2020,22:37:24,Noche,Distracción,Fatiga,"1,52",28.00,12.00,conducción distraída,-33.162150,-70.325460
+VAR,,1668-LRTK85,4/27/2020,03:10:16,Noche,Distracción,Mirada ausente,"3,32",34.00,31.00,conducción distraída,-33.364722,-70.513611
+VAR,,1559 - KVWX88 (M DE F),4/27/2020,10:57:04,Día,Distracción,Mirada ausente,"3,38",35.00,33.00,conducción distraída,-33.511389,-70.716389
+VAR,,1650- LLWZ31,4/27/2020,13:43:44,Día,Distracción,Distracción,"3,11",40.00,34.00,conducción distraída,-33.367694,-70.699516
+VAR,,1650- LLWZ31,4/27/2020,13:43:48,Día,Distracción,Distracción,"3,05",42.00,36.00,conducción distraída,-33.367294,-70.699695
+VAR,,1650- LLWZ31,4/27/2020,13:54:32,Día,Distracción,Distracción,"3,28",46.00,42.00,conducción distraída,-33.320650,-70.736205
+VAR,,1648 - LLWZ32,4/27/2020,10:40:23,Día,Distracción,Mirada ausente,"3,72",49.00,51.00,conducción distraída,-33.102222,-70.761389
+VAR,,1649 - LLWZ28,4/27/2020,09:01:38,Día,Distracción,Distracción,"3,55",74.00,73.00,conducción distraída,-33.311061,-70.724886
+VAR,,1651 - LPBX91,4/27/2020,11:25:24,Día,Distracción,Fatiga,"1,81",81.00,41.00,conducción distraída,-33.254860,-70.697778
+VAR,,1242 - GWKL18,4/27/2020,14:02:33,Día,Distracción,Mirada ausente,"3,14",87.00,76.00,conducción distraída,-33.747778,-70.739167
+VAR,,1650- LLWZ31,4/27/2020,09:49:07,Día,Distracción,Distracción,"3,20",88.00,79.00,conducción distraída,-33.779628,-70.744732
+VAR,,1668-LRTK85,4/27/2020,13:39:08,Día,Distracción,Mirada ausente,"3,53",88.00,86.00,conducción distraída,-33.245833,-70.754167
+VAR,,1650- LLWZ31,4/27/2020,12:36:19,Día,Distracción,Distracción,"3,52",89.00,87.00,conducción distraída,-34.059155,-70.753217
+VAR,,1650- LLWZ31,4/27/2020,13:09:23,Día,Distracción,Distracción,"3,39",89.00,83.00,conducción distraída,-33.763506,-70.741876
+VAR,,1650- LLWZ31,4/27/2020,13:44:54,Día,Distracción,Distracción,"4,79",89.00,118.00,conducción distraída,-33.354901,-70.705213
+VAR,,1650- LLWZ31,4/27/2020,09:49:01,Día,Distracción,Distracción,"3,42",90.00,85.00,conducción distraída,-33.778312,-70.744518
+VAR,,1650- LLWZ31,4/28/2020,09:35:17,Día,Distracción,Distracción,"3,13",36.00,31.00,conducción distraída,-33.365026,-70.699890
+VAR,,1665-LRTK82,4/28/2020,15:58:57,Día,Distracción,Fatiga,"2,07",37.00,21.00,conducción distraída,-33.148333,-70.308611
+VAR,,1648 - LLWZ32,4/28/2020,11:18:20,Día,Distracción,Mirada ausente,"3,38",40.00,37.00,conducción distraída,-33.097500,-70.753333
+VAR,,LGGJ24,4/28/2020,11:27:37,Día,Distracción,Distracción,"4,04",49.00,55.00,conducción distraída,-33.156634,-70.680111
+VAR,,1648 - LLWZ32,4/28/2020,08:55:39,Día,Distracción,Mirada ausente,"3,23",79.00,71.00,conducción distraída,-33.199722,-70.774722
+VAR,,1368 - HWVV83,4/29/2020,12:10:38,Día,Distracción,Fatiga,"1,63",40.00,18.00,conducción distraída,-33.365556,-70.391944
+VAR,,1669 - LRTK86,4/29/2020,09:58:34,Día,Distracción,Distracción,"4,00",48.00,54.00,conducción distraída,-33.524331,-70.705968
+VAR,,1651 - LPBX91,4/29/2020,12:35:35,Día,Distracción,Fatiga,"1,72",51.00,24.00,conducción distraída,-33.548328,-70.697609
+VAR,,1673 - LRTK90,4/29/2020,20:52:35,Noche,Distracción,Mirada ausente,"3,64",79.00,79.00,conducción distraída,-33.375833,-70.532500
+VAR,,1671- LRTK88,4/29/2020,04:11:41,Noche,Distracción,Distracción,"3,89",88.00,95.00,conducción distraída,-33.564402,-71.546833
+VAR,Wilson Sepulveda,1669 - LRTK86,4/30/2020,11:32:22,Día,Fatiga,Fatiga,"1,69",88.00,41.00,somnolencia,-33.204442,-70.664941
+VAR,Braulio diaz,1671- LRTK88,4/30/2020,03:53:14,Noche,Fatiga,Fatiga,"2,05",89.00,51.00,somnolencia,-33.603710,-71.476754
+VAR,,1669 - LRTK86,4/30/2020,00:26:27,Noche,Distracción,Distracción,"3,48",39.00,38.00,conducción distraída,-33.367491,-70.500036
+VAR,,LGGJ24,4/30/2020,14:48:09,Día,Distracción,Fatiga,"1,67",48.00,22.00,conducción distraída,-33.161140,-70.673811
+VAR,,1559 - KVWX88 (M DE F),4/30/2020,13:26:37,Día,Distracción,Mirada ausente,"3,37",56.00,52.00,conducción distraída,-32.839722,-70.982778
+VAR,,1559 - KVWX88 (M DE F),4/30/2020,15:31:51,Día,Distracción,Mirada ausente,"3,32",56.00,51.00,conducción distraída,-32.853611,-70.915278
+VAR,,1670 - LRTK87,5/1/2020,13:34:27,Día,Distracción,Mirada ausente,"3,44",42.00,40.00,conducción distraída,-33.365833,-70.690833
+VAR,,1240 - GWKL16,5/3/2020,03:09:32,Noche,Distracción,Fatiga,"1,52",87.00,37.00,conducción distraída,-34.080930,-70.770270
+VAR,,1665-LRTK82,5/4/2020,15:47:45,Día,Distracción,Fatiga,"1,83",37.00,19.00,conducción distraída,-33.173056,-70.338056
+VAR,,1649 - LLWZ28,5/4/2020,21:21:39,Noche,Distracción,Fatiga,"1,94",38.00,20.00,conducción distraída,-33.370660,-70.399232
+VAR,,1669 - LRTK86,5/4/2020,13:09:48,Día,Distracción,Distracción,"3,65",40.00,40.00,conducción distraída,-33.154336,-70.661114
+VAR,,1559 - KVWX88 (M DE F),5/4/2020,13:55:26,Día,Distracción,Mirada ausente,"3,47",44.00,43.00,conducción distraída,-33.318611,-70.733056
+VAR,,1559 - KVWX88 (M DE F),5/4/2020,10:52:16,Día,Distracción,Mirada ausente,"3,48",87.00,84.00,conducción distraída,-33.402500,-70.779167
+VAR,,1559 - KVWX88 (M DE F),5/5/2020,12:29:54,Día,Distracción,Fatiga,"3,38",15.00,14.00,conducción distraída,-33.384167,-70.751667
+VAR,,1671- LRTK88,5/5/2020,19:28:33,Día,Distracción,Fatiga,"1,57",22.00,10.00,conducción distraída,-33.388971,-70.755608
+VAR,,1673 - LRTK90,5/5/2020,18:31:14,Día,Distracción,Mirada ausente,"3,62",62.00,62.00,conducción distraída,-33.395278,-70.770556
+VAR,,1243 - GWKL19,5/5/2020,12:12:28,Día,Distracción,Mirada ausente,"3,15",84.00,74.00,conducción distraída,-33.329722,-70.698889
+VAR,,1651 - LPBX91,5/6/2020,22:15:35,Noche,Distracción,Fatiga,"2,02",22.00,12.00,conducción distraída,-33.258996,-70.347286
+VAR,,1673 - LRTK90,5/6/2020,23:53:10,Noche,Distracción,Mirada ausente,"3,62",41.00,41.00,conducción distraída,-33.218611,-70.340000
+VAR,,1651 - LPBX91,5/6/2020,03:08:17,Noche,Distracción,Fatiga,"2,28",72.00,45.00,conducción distraída,-33.597264,-71.592217
+VAR,,1242 - GWKL18,5/6/2020,16:12:46,Día,Distracción,Mirada ausente,"3,05",89.00,75.00,conducción distraída,-33.570278,-71.521944
+VAR,,JPST72,5/7/2020,04:27:32,Noche,Distracción,Fatiga,"1,78",12.00,6.00,conducción distraída,-33.167574,-70.323320
+VAR,,1559 - KVWX88 (M DE F),5/7/2020,16:15:38,Día,Distracción,Fatiga,"2,97",15.00,12.00,conducción distraída,-33.320556,-70.736389
+VAR,,1241- GWKL17,5/7/2020,21:56:02,Noche,Distracción,Fatiga,"1,59",17.00,7.00,conducción distraída,-33.268418,-70.351240
+VAR,,1651 - LPBX91,5/7/2020,01:04:55,Noche,Distracción,Fatiga,"1,50",25.00,10.00,conducción distraída,-33.368182,-70.501503
+VAR,,1650- LLWZ31,5/7/2020,01:42:18,Noche,Distracción,Distracción,"3,54",42.00,41.00,conducción distraída,-33.668286,-70.923230
+VAR,,1670 - LRTK87,5/7/2020,20:26:12,Noche,Distracción,Mirada ausente,"3,43",45.00,43.00,conducción distraída,-33.386389,-70.595000
+VAR,,1669 - LRTK86,5/7/2020,10:12:10,Día,Distracción,Distracción,"3,52",46.00,45.00,conducción distraída,-33.358981,-70.691003
+VAR,,1650- LLWZ31,5/7/2020,01:08:03,Noche,Distracción,Distracción,"3,26",53.00,48.00,conducción distraída,-33.477326,-70.688984
+VAR,,1650- LLWZ31,5/7/2020,10:41:49,Día,Distracción,Fatiga,"1,94",57.00,31.00,notificación de cierre los ojos,-33.173242,-70.650596
+VAR,,1559 - KVWX88 (M DE F),5/7/2020,11:42:23,Día,Distracción,Mirada ausente,"3,10",71.00,61.00,conducción distraída,-33.216389,-70.767500
+VAR,,1559 - KVWX88 (M DE F),5/7/2020,09:54:08,Día,Distracción,Mirada ausente,"3,15",87.00,76.00,conducción distraída,-33.248333,-70.753056
+VAR,,1650- LLWZ31,5/7/2020,04:00:46,Noche,Distracción,Distracción,"3,59",89.00,88.00,conducción distraída,-33.697983,-70.966757
+VAR,,1650- LLWZ31,5/7/2020,01:54:33,Noche,Distracción,Distracción,"3,94",91.00,99.00,conducción distraída,-33.685902,-71.066108
+VAR,,1670 - LRTK87,5/8/2020,01:08:17,Noche,Distracción,Mirada ausente,"3,54",33.00,32.00,conducción distraída,-33.413889,-70.692778
+VAR,,1651 - LPBX91,5/8/2020,11:04:17,Día,Distracción,Distracción,"4,31",60.00,72.00,conducción distraída,-33.365951,-70.694520
+VAR,,1651 - LPBX91,5/8/2020,11:04:01,Día,Distracción,Distracción,"4,68",64.00,83.00,conducción distraída,-33.365960,-70.697553
+VAR,,1651 - LPBX91,5/8/2020,11:04:08,Día,Distracción,Distracción,"5,74",66.00,106.00,conducción distraída,-33.365937,-70.696187
+VAR,,1651 - LPBX91,5/8/2020,11:04:31,Día,Distracción,Distracción,"4,50",67.00,83.00,conducción distraída,-33.366150,-70.691615
+VAR,,1673 - LRTK90,5/11/2020,21:54:22,Noche,Distracción,Mirada ausente,"3,17",35.00,31.00,conducción distraída,-33.367778,-70.422778
+VAR,,1668-LRTK85,5/11/2020,15:41:23,Día,Distracción,Mirada ausente,"3,22",36.00,33.00,conducción distraída,-33.566944,-71.536389
+VAR,,1240 - GWKL16,5/11/2020,23:50:19,Noche,Distracción,Fatiga,"1,81",37.00,19.00,conducción distraída,-33.167133,-70.335578
+VAR,,1669 - LRTK86,5/11/2020,02:58:04,Noche,Distracción,Distracción,"3,46",39.00,37.00,conducción distraída,-33.368512,-70.502335
+VAR,,1673 - LRTK90,5/11/2020,21:53:48,Noche,Distracción,Mirada ausente,"3,13",39.00,34.00,conducción distraída,-33.367500,-70.424444
+VAR,,1673 - LRTK90,5/11/2020,22:19:33,Noche,Distracción,Mirada ausente,"3,30",39.00,36.00,conducción distraída,-33.308056,-70.356944
+VAR,,1649 - LLWZ28,5/11/2020,09:36:11,Día,Distracción,Distracción,"3,66",79.00,80.00,conducción distraída,-33.494318,-70.771802
+VAR,,1650- LLWZ31,5/11/2020,14:51:24,Día,Distracción,Distracción,"3,87",88.00,95.00,conducción distraída,-33.596415,-70.715544
+VAR,,1650- LLWZ31,5/11/2020,09:23:21,Día,Distracción,Distracción,"3,78",89.00,93.00,conducción distraída,-33.156666,-70.649880
+VAR,,1650- LLWZ31,5/11/2020,14:49:17,Día,Distracción,Distracción,"3,04",90.00,76.00,conducción distraída,-33.624750,-70.714264
+VAR,,1671- LRTK88,5/12/2020,00:31:40,Noche,Distracción,Fatiga,"1,63",24.00,11.00,conducción distraída,-33.189361,-70.338480
+VAR,,1668-LRTK85,5/12/2020,22:08:36,Noche,Distracción,Mirada ausente,"3,17",30.00,27.00,conducción distraída,-33.190278,-70.338889
+VAR,,1368 - HWVV83,5/12/2020,13:04:41,Día,Distracción,Mirada ausente,"3,18",37.00,33.00,conducción distraída,-33.307500,-70.357222
+VAR,,1240 - GWKL16,5/12/2020,00:31:28,Noche,Distracción,Fatiga,"1,52",38.00,16.00,conducción distraída,-33.315353,-70.359676
+VAR,,1650- LLWZ31,5/12/2020,08:35:03,Día,Distracción,Distracción,"3,31",40.00,37.00,conducción distraída,-33.148407,-70.690226
+VAR,,1673 - LRTK90,5/12/2020,13:15:11,Día,Distracción,Mirada ausente,"3,15",57.00,49.00,conducción distraída,-33.371667,-70.709167
+VAR,,1651 - LPBX91,5/12/2020,10:25:30,Día,Distracción,Fatiga,"1,94",89.00,48.00,conducción distraída,-33.453802,-70.888948
+VAR,,1669 - LRTK86,5/12/2020,01:59:33,Noche,Distracción,Fatiga,"1,52",92.00,39.00,conducción distraída,-33.678126,-71.089538
+VAR,,1240 - GWKL16,5/12/2020,01:36:49,Noche,Distracción,Fatiga,"1,61",93.00,41.00,conducción distraída,-33.375665,-70.532336
+VAR,,1670 - LRTK87,5/13/2020,10:09:28,Día,Distracción,Mirada ausente,"3,14",43.00,38.00,conducción distraída,-33.193889,-70.665833
+VAR,,1242 - GWKL18,5/13/2020,14:20:57,Día,Distracción,Fatiga,"1,54",89.00,38.00,conducción distraída,-33.680833,-71.081667
+VAR,,1241- GWKL17,5/14/2020,22:43:54,Noche,Distracción,Fatiga,"1,85",15.00,8.00,conducción distraída,-33.264002,-70.350040
+VAR,,1673 - LRTK90,5/14/2020,23:58:57,Noche,Distracción,Mirada ausente,"5,33",35.00,51.00,conducción distraída,-33.370556,-70.509167
+VAR,,1650- LLWZ31,5/14/2020,08:43:30,Día,Distracción,Distracción,"3,78",40.00,42.00,conducción distraída,-33.148334,-70.690374
+VAR,,1673 - LRTK90,5/14/2020,23:55:35,Noche,Distracción,Mirada ausente,"3,12",58.00,50.00,conducción distraída,-33.369722,-70.519722
+VAR,,1673 - LRTK90,5/14/2020,23:55:11,Noche,Distracción,Mirada ausente,"3,50",61.00,59.00,conducción distraída,-33.371389,-70.523333
+VAR,,1673 - LRTK90,5/14/2020,23:51:21,Noche,Distracción,Mirada ausente,"3,40",65.00,61.00,conducción distraída,-33.376667,-70.561667
+VAR,,1648 - LLWZ32,5/14/2020,20:53:10,Noche,Distracción,Mirada ausente,"3,27",66.00,60.00,conducción distraída,-33.388333,-70.597222
+VAR,,1673 - LRTK90,5/14/2020,23:51:09,Noche,Distracción,Mirada ausente,"3,18",66.00,58.00,conducción distraída,-33.376944,-70.564167
+VAR,,1650- LLWZ31,5/15/2020,09:01:47,Día,Distracción,Distracción,"3,31",38.00,35.00,conducción distraída,-33.154143,-70.665682
+VAR,,1240 - GWKL16,5/16/2020,02:47:51,Noche,Distracción,Fatiga,"2,02",90.00,50.00,conducción distraída,-34.116353,-70.724777
+VAR,,1648 - LLWZ32,5/16/2020,15:13:43,Día,Distracción,Ojos cerrados,"3,27",96.00,87.00,conducción distraída,-33.369167,-70.705278
+VAR,,1240 - GWKL16,5/18/2020,09:53:07,Día,Distracción,Fatiga,"2,26",10.00,6.00,conducción distraída,-34.356724,-70.812733
+VAR,,1650- LLWZ31,5/18/2020,20:43:51,Noche,Distracción,Distracción,"3,04",45.00,38.00,conducción distraída,-33.366534,-70.514775
+VAR,Yeison Sepulveda,1651 - LPBX91,5/19/2020,21:06:04,Noche,Fatiga,Fatiga,"1,76",28.00,14.00,somnolencia,-33.364472,-70.490870
+VAR,,1651 - LPBX91,5/19/2020,10:43:44,Día,Distracción,Fatiga,"1,74",30.00,15.00,conducción distraída,-33.563167,-71.558704
+VAR,,1650- LLWZ31,5/19/2020,03:01:13,Noche,Distracción,Distracción,"3,17",69.00,61.00,conducción distraída,-33.578009,-71.575694
+VAR,,1649 - LLWZ28,5/19/2020,12:06:46,Día,Distracción,Fatiga,"1,52",81.00,34.00,conducción distraída,-33.177556,-70.646763
+VAR,,1241- GWKL17,5/20/2020,12:58:54,Día,Distracción,Fatiga,"2,04",14.00,8.00,conducción distraída,-33.383391,-70.752012
+VAR,,1559 - KVWX88 (M DE F),5/20/2020,04:38:06,Noche,Distracción,Fatiga,"2,98",33.00,27.00,conducción distraída,-33.160833,-70.646667
+VAR,,1671- LRTK88,5/20/2020,09:07:02,Día,Distracción,Distracción,"4,16",34.00,39.00,conducción distraída,-33.156260,-70.650555
+VAR,,1650- LLWZ31,5/20/2020,00:38:20,Noche,Distracción,Distracción,"3,28",37.00,33.00,conducción distraída,-33.369754,-70.505018
+VAR,,LGGJ24,5/20/2020,12:49:18,Día,Distracción,Fatiga,"1,52",45.00,19.00,conducción distraída,-33.159019,-70.676815
+VAR,,1650- LLWZ31,5/20/2020,18:37:05,Día,Distracción,Distracción,"3,13",47.00,41.00,conducción distraída,-33.384827,-70.758518
+VAR,,1669 - LRTK86,5/20/2020,17:21:09,Día,Distracción,Distracción,"3,87",89.00,95.00,conducción distraída,-33.275649,-70.740988
+VAR,,1563 - KVWX92(MDEF),5/21/2020,14:16:53,Día,Distracción,Fatiga,"2,93",26.00,22.00,conducción distraída,-33.461111,-70.783056
+VAR,,1563 - KVWX92(MDEF),5/21/2020,10:56:43,Día,Distracción,Ojos cerrados,"3,25",80.00,72.00,conducción distraída,-33.224722,-70.682222
+VAR,,1649 - LLWZ28,5/21/2020,20:51:07,Noche,Distracción,Distracción,"3,02",88.00,73.00,conducción distraída,-33.374621,-70.529537
+VAR,,JYZD34,5/21/2020,17:53:35,Día,Distracción,Fatiga,"1,89",100.00,52.00,conducción distraída,-33.398466,-70.774517
+VAR,,1563 - KVWX92(MDEF),5/22/2020,11:30:11,Día,Distracción,Fatiga,"2,87",19.00,15.00,conducción distraída,-33.465000,-70.786111
+VAR,,1242 - GWKL18,5/22/2020,22:42:35,Noche,Distracción,Fatiga,"1,93",19.00,10.00,conducción distraída,-33.258056,-70.345833
+VAR,,1670 - LRTK87,5/22/2020,01:28:00,Noche,Distracción,Fatiga,"2,59",20.00,14.00,conducción distraída,-33.176389,-70.337222
+VAR,,1667 - LRTK84,5/22/2020,11:12:59,Día,Distracción,Fatiga,"1,52",29.00,12.00,conducción distraída,-33.335703,-70.713601
+VAR,,1669 - LRTK86,5/22/2020,20:49:16,Noche,Distracción,Distracción,"3,81",37.00,39.00,conducción distraída,-33.370241,-70.507206
+VAR,,1670 - LRTK87,5/22/2020,01:19:54,Noche,Distracción,Mirada ausente,"3,29",40.00,36.00,conducción distraída,-33.158889,-70.322778
+VAR,,1667 - LRTK84,5/22/2020,14:31:33,Día,Distracción,Distracción,"4,35",84.00,102.00,conducción distraída,-33.346962,-70.708723
+VAR,,1563 - KVWX92(MDEF),5/23/2020,15:45:06,Día,Distracción,Fatiga,"2,82",32.00,25.00,conducción distraída,-33.165833,-70.642500
+VAR,,1651 - LPBX91,5/23/2020,00:23:18,Noche,Distracción,Fatiga,"2,02",34.00,19.00,conducción distraída,-33.364835,-70.389381
+VAR,,1563 - KVWX92(MDEF),5/23/2020,10:12:29,Día,Distracción,Fatiga,"2,77",35.00,27.00,conducción distraída,-33.164444,-70.643611
+VAR,,1666-LRTK83,5/23/2020,14:05:57,Día,Distracción,Mirada ausente,"3,38",37.00,35.00,conducción distraída,-33.151389,-70.315278
+VAR,,1563 - KVWX92(MDEF),5/23/2020,09:11:44,Día,Distracción,Fatiga,"2,52",47.00,33.00,conducción distraída,-33.445278,-70.781944
+VAR,,1242 - GWKL18,5/23/2020,04:41:38,Noche,Distracción,Mirada ausente,"3,18",84.00,74.00,conducción distraída,-33.512500,-70.720278
+VAR,,LLVH43,5/24/2020,07:58:04,Día,Distracción,Distracción,"4,26",33.00,39.00,conducción distraída,-33.148932,-70.288651
+VAR,,1658 - LLWZ23,5/24/2020,04:47:20,Noche,Distracción,Distracción,"3,81",42.00,45.00,conducción distraída,-33.177160,-70.337374
+VAR,,1563 - KVWX92(MDEF),5/24/2020,09:15:53,Día,Distracción,Fatiga,"1,93",45.00,24.00,conducción distraída,-33.445833,-70.778056
+VAR,,LLVH43,5/25/2020,12:54:17,Día,Distracción,Distracción,"4,02",25.00,28.00,conducción distraída,-33.148600,-70.288900
+VAR,,1563 - KVWX92(MDEF),5/25/2020,01:03:22,Noche,Distracción,Mirada ausente,"3,54",32.00,31.00,conducción distraída,-33.166667,-70.641944
+VAR,,1664 - LRTK81,5/25/2020,16:21:22,Día,Distracción,Mirada ausente,"3,81",38.00,40.00,conducción distraída,-33.275000,-70.740833
+VAR,,1242 - GWKL18,5/25/2020,15:56:03,Día,Distracción,Mirada ausente,"3,19",45.00,40.00,conducción distraída,-33.611111,-71.453056
+VAR,,1650- LLWZ31,5/25/2020,15:03:54,Día,Distracción,Distracción,"3,05",85.00,72.00,conducción distraída,-33.323075,-70.719699
+VAR,,1242 - GWKL18,5/25/2020,16:11:57,Día,Distracción,Mirada ausente,"3,17",88.00,78.00,conducción distraída,-33.673611,-71.230556
+VAR,,JYZD34,5/25/2020,11:28:36,Día,Distracción,Distracción,"4,61",97.00,124.00,conducción distraída,-33.542837,-70.629208
+VAR,,JYZD34,5/25/2020,11:29:32,Día,Distracción,Distracción,"5,03",100.00,139.00,conducción distraída,-33.540771,-70.645854
+VAR,,JYZD34,5/25/2020,11:36:10,Día,Distracción,Distracción,"3,54",104.00,103.00,conducción distraída,-33.496344,-70.745772
+VAR,,JYZD34,5/25/2020,11:38:38,Día,Distracción,Distracción,"4,20",105.00,123.00,conducción distraída,-33.463402,-70.763288
+VAR,,1651 - LPBX91,5/26/2020,22:33:07,Noche,Distracción,Fatiga,"1,87",25.00,13.00,conducción distraída,-33.227955,-70.340943
+VAR,,1651 - LPBX91,5/26/2020,22:24:38,Noche,Distracción,Distracción,"5,79",36.00,57.00,conducción distraída,-33.259011,-70.347336
+VAR,,1241- GWKL17,5/26/2020,01:22:48,Noche,Distracción,Fatiga,"1,72",38.00,18.00,conducción distraída,-33.369983,-70.461750
+VAR,,1667 - LRTK84,5/26/2020,05:24:12,Noche,Distracción,Distracción,"3,11",39.00,33.00,conducción distraída,-33.161371,-70.331687
+VAR,,1243 - GWKL19,5/27/2020,02:14:34,Noche,Distracción,Mirada ausente,"3,33",44.00,41.00,conducción distraída,-33.387778,-70.757778
+VAR,,1368 - HWVV83,5/27/2020,14:28:29,Día,Distracción,Mirada ausente,"3,05",64.00,54.00,conducción distraída,-33.388889,-70.763333
+VAR,,1368 - HWVV83,5/27/2020,16:26:46,Día,Distracción,Mirada ausente,"3,49",75.00,72.00,conducción distraída,-33.448056,-70.766944
+VAR,,1368 - HWVV83,5/27/2020,14:36:08,Día,Distracción,Mirada ausente,"3,42",79.00,75.00,conducción distraída,-33.450278,-70.756389
+VAR,,1670 - LRTK87,5/27/2020,14:25:12,Día,Distracción,Mirada ausente,"3,10",88.00,75.00,conducción distraída,-33.684722,-70.942778
+VAR,,1555 - KVWX83(M DE F),5/28/2020,00:31:20,Noche,Distracción,Fatiga,"2,09",16.00,9.00,conducción distraída,-33.467778,-70.788333
+VAR,,1649 - LLWZ28,5/28/2020,17:17:58,Día,Distracción,Distracción,"3,24",38.00,34.00,conducción distraída,-33.162196,-70.672416
+VAR,,1555 - KVWX83(M DE F),5/28/2020,19:18:50,Día,Distracción,Fatiga,"1,55",79.00,34.00,conducción distraída,-33.393889,-70.768889
+VAR,,1555 - KVWX83(M DE F),5/28/2020,17:24:16,Día,Distracción,Fatiga,"2,72",83.00,62.00,conducción distraída,-33.202500,-70.663333
+VAR,,1671- LRTK88,5/28/2020,13:26:19,Día,Distracción,Distracción,"4,50",88.00,110.00,conducción distraída,-32.847842,-70.962725
+VAR,,LGGJ24,5/29/2020,14:15:29,Día,Distracción,Fatiga,"2,94",29.00,24.00,conducción distraída,-32.752360,-70.720994
+VAR,,1665-LRTK82,5/29/2020,23:40:15,Noche,Distracción,Mirada ausente,"4,87",30.00,41.00,conducción distraída,-33.168333,-70.325278
+VAR,,1563 - KVWX92(MDEF),5/29/2020,21:16:39,Noche,Distracción,Fatiga,"2,00",32.00,18.00,conducción distraída,-33.460833,-70.783056
+VAR,,LLVH43,5/29/2020,06:41:03,Noche,Distracción,Fatiga,"1,65",34.00,16.00,conducción distraída,-33.158500,-70.331336
+VAR,,1650- LLWZ31,5/29/2020,12:31:08,Día,Distracción,Distracción,"3,26",35.00,32.00,conducción distraída,-33.315481,-70.705632
+VAR,,1650- LLWZ31,5/29/2020,01:06:16,Noche,Distracción,Distracción,"3,39",37.00,35.00,conducción distraída,-33.364880,-70.470517
+VAR,,1671- LRTK88,5/29/2020,09:01:18,Día,Distracción,Distracción,"5,20",39.00,57.00,conducción distraída,-33.154173,-70.669716
+VAR,,1649 - LLWZ28,5/29/2020,09:10:47,Día,Distracción,Distracción,"3,44",70.00,67.00,conducción distraída,-33.108087,-70.764922
+VAR,,1555 - KVWX83(M DE F),5/30/2020,11:19:43,Día,Distracción,Fatiga,"1,77",29.00,14.00,conducción distraída,-33.466111,-70.787778
+VAR,,LLVH43,5/30/2020,06:50:22,Noche,Distracción,Fatiga,"2,09",46.00,27.00,conducción distraída,-33.167493,-70.335954
+VAR,,1559 - KVWX88 (M DE F),5/30/2020,02:08:35,Noche,Distracción,Mirada ausente,"3,58",58.00,58.00,conducción distraída,-33.165000,-70.648056
+VAR,,1555 - KVWX83(M DE F),6/1/2020,17:47:23,Día,Distracción,Mirada ausente,"3,09",33.00,28.00,conducción distraída,-33.166667,-70.641944
+VAR,,1243 - GWKL19,6/1/2020,15:37:25,Día,Distracción,Mirada ausente,"3,33",46.00,43.00,conducción distraída,-33.316111,-70.706111
+VAR,,1671- LRTK88,6/1/2020,10:42:12,Día,Distracción,Fatiga,"2,02",79.00,44.00,conducción distraída,-33.377998,-70.749903
+VAR,,1555 - KVWX83(M DE F),6/1/2020,14:33:04,Día,Distracción,Fatiga,"2,95",79.00,64.00,conducción distraída,-33.251944,-70.697778
+VAR,,1671- LRTK88,6/1/2020,11:00:27,Día,Distracción,Fatiga,"2,48",87.00,60.00,conducción distraída,-33.287955,-70.735259
+VAR,,1671- LRTK88,6/1/2020,11:00:31,Día,Distracción,Fatiga,"2,30",87.00,56.00,conducción distraída,-33.286930,-70.735722
+VAR,,1671- LRTK88,6/1/2020,11:00:36,Día,Distracción,Fatiga,"1,81",87.00,44.00,conducción distraída,-33.286108,-70.736089
+VAR,,1649 - LLWZ28,6/2/2020,06:01:53,Noche,Distracción,Distracción,"3,41",88.00,83.00,conducción distraída,-33.669610,-71.126304
+VAR,,1648 - LLWZ32,6/3/2020,04:09:40,Noche,Distracción,Mirada ausente,"3,57",38.00,38.00,conducción distraída,-33.367500,-70.500000
+VAR,,1650- LLWZ31,6/3/2020,04:08:44,Noche,Distracción,Distracción,"3,04",39.00,33.00,conducción distraída,-33.366967,-70.497197
+VAR,,1241- GWKL17,6/4/2020,00:50:09,Noche,Distracción,Fatiga,"1,72",26.00,12.00,conducción distraída,-33.160557,-70.324157
+VAR,,1555 - KVWX83(M DE F),6/4/2020,10:26:31,Día,Distracción,Fatiga,"2,70",28.00,21.00,conducción distraída,-33.465556,-70.787500
+VAR,,1673 - LRTK90,6/4/2020,00:47:39,Noche,Distracción,Mirada ausente,"3,72",36.00,37.00,conducción distraída,-33.319167,-70.361111
+VAR,,1651 - LPBX91,6/4/2020,17:29:39,Día,Distracción,Fatiga,"1,63",39.00,18.00,conducción distraída,-33.154946,-70.682490
+VAR,,1650- LLWZ31,6/4/2020,10:27:49,Día,Distracción,Distracción,"3,48",64.00,62.00,conducción distraída,-33.366351,-70.700388
+VAR,,LLVH43,6/5/2020,16:06:10,Día,Distracción,Fatiga,"1,65",37.00,17.00,conducción distraída,-33.150320,-70.294055
+VAR,,1650- LLWZ31,6/5/2020,01:24:00,Noche,Distracción,Distracción,"3,37",64.00,60.00,conducción distraída,-33.368988,-70.519038
+VAR,,1668-LRTK85,6/5/2020,09:30:56,Día,Distracción,Fatiga,"1,88",65.00,34.00,conducción distraída,-33.427222,-70.783889
+VAR,,1559 - KVWX88 (M DE F),6/5/2020,02:45:08,Noche,Distracción,Mirada ausente,"3,65",79.00,80.00,conducción distraída,-33.221944,-70.679444
+VAR,,1649 - LLWZ28,6/5/2020,15:04:02,Día,Distracción,Distracción,"3,24",85.00,76.00,conducción distraída,-33.181285,-70.645923
+VAR,,1650- LLWZ31,6/6/2020,02:07:25,Noche,Distracción,Distracción,"3,44",40.00,38.00,conducción distraída,-33.367834,-70.500860
+VAR,Ricardo Aguilar,JYZD34,6/8/2020,23:14:42,Noche,Fatiga,Fatiga,"1,78",15.00,7.00,somnolencia,-33.194009,-70.339108
+VAR,Ricardo Aguilar,JYZD34,6/8/2020,23:07:49,Noche,Fatiga,Fatiga,"1,50",28.00,12.00,somnolencia,-33.226809,-70.343659
+VAR,,LLVH43,6/8/2020,15:10:38,Día,Fatiga,Fatiga,"1,81",34.00,17.00,somnolencia,-33.150538,-70.294133
+VAR,,LLVH42,6/8/2020,16:46:05,Día,Distracción,Fatiga,"1,56",43.00,18.00,notificación de cierre los ojos,-33.172695,-70.338083
+VAR,,LLVH43,6/8/2020,15:06:26,Día,Fatiga,Fatiga,"1,59",53.00,23.00,somnolencia,-33.144756,-70.307001
+VAR,,1555 - KVWX83(M DE F),6/8/2020,12:44:30,Día,Distracción,Fatiga,"2,52",75.00,52.00,conducción distraída,-33.381389,-70.753889
+VAR,,1559 - KVWX88 (M DE F),6/8/2020,01:43:47,Noche,Distracción,Mirada ausente,"3,53",82.00,80.00,conducción distraída,-33.221667,-70.679167
+VAR,,1241- GWKL17,6/9/2020,01:45:49,Noche,Distracción,Fatiga,"1,50",40.00,17.00,conducción distraída,-33.367412,-70.512388
+VAR,,1650- LLWZ31,6/9/2020,14:21:39,Día,Distracción,Distracción,"3,17",61.00,53.00,conducción distraída,-33.308115,-70.726505
+VAR,,1650- LLWZ31,6/9/2020,14:00:11,Día,Distracción,Distracción,"3,44",70.00,67.00,conducción distraída,-33.115042,-70.769048
+VAR,,1651 - LPBX91,6/10/2020,13:35:58,Día,Distracción,Fatiga,"1,76",29.00,14.00,conducción distraída,-34.174188,-70.746341
+VAR,,1665-LRTK82,6/10/2020,05:46:48,Noche,Distracción,Mirada ausente,"3,85",32.00,34.00,conducción distraída,-33.160278,-70.332500
+VAR,,1673 - LRTK90,6/10/2020,20:52:55,Noche,Distracción,Mirada ausente,"3,73",36.00,37.00,conducción distraída,-33.366944,-70.512778
+VAR,,1673 - LRTK90,6/10/2020,20:44:40,Noche,Distracción,Mirada ausente,"3,12",68.00,59.00,conducción distraída,-33.385000,-70.592778
+VAR,,1671- LRTK88,6/10/2020,16:25:15,Día,Distracción,Distracción,"5,05",88.00,124.00,conducción distraída,-33.170467,-70.651753
+VAR,,1650- LLWZ31,6/10/2020,10:21:30,Día,Distracción,Fatiga,"2,09",89.00,51.00,conducción distraída,-33.649996,-71.272334
+VAR,,1651 - LPBX91,6/11/2020,01:56:24,Noche,Distracción,Fatiga,"1,68",26.00,12.00,conducción distraída,-33.311313,-70.357540
+VAR,,1650- LLWZ31,6/11/2020,01:14:06,Noche,Distracción,Distracción,"6,96",36.00,69.00,conducción distraída,-33.371503,-70.442318
+VAR,,1648 - LLWZ32,6/11/2020,13:39:04,Día,Distracción,Fatiga,"2,52",38.00,27.00,conducción distraída,-33.271111,-70.737222
+VAR,,1650- LLWZ31,6/11/2020,01:16:05,Noche,Distracción,Distracción,"4,35",40.00,49.00,conducción distraída,-33.371071,-70.454447
+VAR,,1242 - GWKL18,6/11/2020,20:54:45,Noche,Distracción,Fatiga,"1,53",73.00,31.00,conducción distraída,-33.376944,-70.540000
+VAR,,1668-LRTK85,6/12/2020,13:48:08,Día,Distracción,Mirada ausente,"3,37",30.00,28.00,conducción distraída,-33.935000,-70.713333
+VAR,,1651 - LPBX91,6/12/2020,20:27:29,Noche,Distracción,Fatiga,"1,74",53.00,26.00,conducción distraída,-33.378045,-70.749829
+VAR,,1650- LLWZ31,6/12/2020,14:53:56,Día,Distracción,Fatiga,"2,00",82.00,45.00,conducción distraída,-33.768263,-70.742685
+VAR,,1650- LLWZ31,6/13/2020,00:33:18,Noche,Distracción,Fatiga,"2,85",18.00,14.00,conducción distraída,-33.184110,-70.337488
+VAR,,1560-KVWX89(M DE F.),6/13/2020,04:02:07,Noche,Distracción,Mirada ausente,"5,44",33.00,49.00,conducción distraída,-33.199722,-70.338333
+VAR,,LLVH42,6/14/2020,19:22:56,Día,Distracción,Fatiga,"1,67",31.00,14.00,conducción distraída,-33.147908,-70.291120
+VAR,,1560-KVWX89(M DE F.),6/14/2020,21:05:06,Noche,Distracción,Mirada ausente,"3,17",35.00,31.00,conducción distraída,-33.228333,-70.341667
+VAR,,1240 - GWKL16,6/15/2020,23:34:46,Noche,Distracción,Fatiga,"1,96",11.00,6.00,conducción distraída,-33.148384,-70.308429
+VAR,,1670 - LRTK87,6/15/2020,21:39:05,Noche,Distracción,Mirada ausente,"3,22",33.00,30.00,conducción distraída,-33.306944,-70.358056
+VAR,,1650- LLWZ31,6/15/2020,15:39:24,Día,Distracción,Distracción,"3,04",39.00,33.00,notificación de conducir distraído,-33.159163,-70.654404
+VAR,,1242 - GWKL18,6/15/2020,16:30:33,Día,Distracción,Mirada ausente,"3,17",41.00,36.00,conducción distraída,-33.583611,-71.579167
+VAR,,LLVH42,6/16/2020,19:38:48,Día,Distracción,Fatiga,"1,96",45.00,24.00,conducción distraída,-33.161539,-70.324992
+VAR,,1670 - LRTK87,6/16/2020,13:25:32,Día,Distracción,Mirada ausente,"3,27",71.00,64.00,conducción distraída,-33.611389,-71.450833
+VAR,,1240 - GWKL16,6/16/2020,14:05:55,Día,Distracción,Fatiga,"1,87",91.00,47.00,conducción distraída,-33.621404,-71.413943
+VAR,Braulio Diaz,1240 - GWKL16,6/18/2020,04:21:18,Noche,Fatiga,Fatiga,"1,55",34.00,14.00,somnolencia,-33.369945,-70.460058
+VAR,Braulio Diaz,1240 - GWKL16,6/18/2020,22:50:14,Noche,Fatiga,Fatiga,"1,76",86.00,42.00,somnolencia,-33.625142,-71.404848
+VAR,,1669 - LRTK86,6/18/2020,04:55:15,Noche,Distracción,Distracción,"3,02",39.00,33.00,conducción distraída,-33.368333,-70.501930
+VAR,,1650- LLWZ31,6/18/2020,03:15:10,Noche,Distracción,Distracción,"3,46",40.00,39.00,conducción distraída,-33.354121,-70.368799
+VAR,,1671- LRTK88,6/19/2020,22:38:12,Noche,Distracción,Distracción,"5,61",41.00,65.00,conducción distraída,-33.272404,-70.351289
+VAR,Eduardo Torres,JYZD34,6/20/2020,04:51:31,Noche,Fatiga,Fatiga,"1,56",20.00,9.00,somnolencia,-33.197473,-70.339383
+VAR,,JYZD34,6/20/2020,04:44:55,Noche,Distracción,Fatiga,"1,98",28.00,15.00,conducción distraída,-33.176706,-70.337339
+VAR,,LLVH43,6/21/2020,15:11:35,Día,Distracción,Distracción,"4,20",35.00,41.00,conducción distraída,-33.159442,-70.298126
+VAR,,LGGJ24,6/22/2020,15:21:39,Día,Distracción,Fatiga,"1,70",24.00,11.00,conducción distraída,-33.143080,-70.701614
+VAR,,1649 - LLWZ28,6/22/2020,12:43:59,Día,Distracción,Distracción,"3,33",83.00,77.00,conducción distraída,-33.283586,-70.736819
+VAR,,1242 - GWKL18,6/23/2020,16:46:49,Día,Distracción,Fatiga,"1,60",35.00,16.00,conducción distraída,-33.600556,-71.598333
+VAR,,JYZD34,6/23/2020,21:09:50,Noche,Distracción,Fatiga,"1,70",41.00,19.00,conducción distraída,-33.159864,-70.332548
+VAR,,1651 - LPBX91,6/23/2020,01:38:35,Noche,Distracción,Fatiga,"2,00",58.00,32.00,conducción distraída,-33.396631,-70.618586
+VAR,,1669 - LRTK86,6/23/2020,20:38:54,Noche,Distracción,Distracción,"3,22",89.00,79.00,conducción distraída,-33.369340,-70.675842
+VAR,,JYZD34,6/24/2020,02:04:06,Noche,Distracción,Fatiga,"1,61",31.00,14.00,conducción distraída,-33.203675,-70.338610
+VAR,,1563 - KVWX92(MDEF),6/24/2020,15:51:27,Día,Distracción,Mirada ausente,"3,05",89.00,76.00,conducción distraída,-33.002222,-70.881667
+VAR,,1240 - GWKL16,6/24/2020,13:07:25,Día,Distracción,Fatiga,"1,85",93.00,48.00,conducción distraída,-33.684932,-70.944082
+VAR,,1240 - GWKL16,6/24/2020,13:16:41,Día,Distracción,Fatiga,"2,15",94.00,56.00,conducción distraída,-33.680019,-71.083708
+VAR,Wilson Sepulveda,1669 - LRTK86,6/25/2020,09:34:42,Día,Fatiga,Fatiga,"1,87",35.00,18.00,somnolencia,-33.150202,-70.685078
+VAR,Claudio Ancamilla,JPST72,6/25/2020,06:40:30,Noche,Fatiga,Fatiga,"1,70",38.00,18.00,somnolencia,-33.168878,-70.337244
+VAR,,1651 - LPBX91,6/25/2020,12:40:27,Día,Distracción,Fatiga,"2,76",18.00,13.00,conducción distraída,-33.135759,-70.813033
+VAR,,1668-LRTK85,6/25/2020,11:31:12,Día,Distracción,Fatiga,"2,75",32.00,24.00,conducción distraída,-33.563611,-70.820278
+VAR,,1241- GWKL17,6/25/2020,21:08:36,Noche,Distracción,Fatiga,"1,52",38.00,16.00,conducción distraída,-33.364194,-70.480405
+VAR,,1649 - LLWZ28,6/25/2020,09:40:01,Día,Distracción,Distracción,"3,07",84.00,72.00,conducción distraída,-33.320144,-70.720766
+VAR,,1563 - KVWX92(MDEF),6/25/2020,09:19:45,Día,Distracción,Fatiga,"1,97",88.00,48.00,conducción distraída,-32.811944,-71.146389
+VAR,,1649 - LLWZ28,6/25/2020,12:33:03,Día,Distracción,Distracción,"3,05",88.00,75.00,conducción distraída,-33.818536,-70.751095
+VAR,,1650- LLWZ31,6/25/2020,15:34:16,Día,Distracción,Distracción,"3,53",88.00,87.00,conducción distraída,-34.168890,-70.793229
+VAR,,1649 - LLWZ28,6/26/2020,11:35:24,Día,Distracción,Fatiga,"1,52",18.00,8.00,conducción distraída,-33.143783,-70.701582
+VAR,,1649 - LLWZ28,6/26/2020,11:07:24,Día,Distracción,Distracción,"3,07",65.00,55.00,conducción distraída,-33.232246,-70.691355
+VAR,,1668-LRTK85,6/26/2020,00:53:25,Noche,Distracción,Mirada ausente,"3,82",88.00,94.00,conducción distraída,-33.690833,-70.954444
+VAR,,1670 - LRTK87,6/27/2020,03:14:29,Noche,Distracción,Mirada ausente,"3,54",32.00,31.00,conducción distraída,-33.367778,-70.511944
+VAR,,1650- LLWZ31,6/27/2020,21:24:36,Noche,Distracción,Fatiga,"1,98",41.00,22.00,conducción distraída,-33.389498,-70.601393
+VAR,,1651 - LPBX91,6/27/2020,19:53:03,Día,Distracción,Distracción,"3,24",52.00,47.00,conducción distraída,-33.696970,-71.034938
+VAR,Ismael Tapia,1648 - LLWZ32,6/28/2020,03:59:20,Noche,Fatiga,Fatiga,"1,53",89.00,38.00,somnolencia,-33.538889,-70.802778
+VAR,,1670 - LRTK87,6/28/2020,05:04:41,Noche,Distracción,Fatiga,"1,80",34.00,17.00,conducción distraída,-33.364722,-70.389167
+VAR,,1652-LLWZ24,6/30/2020,12:18:59,Día,Distracción,Fatiga,"2,22",14.00,9.00,conducción distraída,-33.146736,-70.698981
+VAR,,1651 - LPBX91,6/30/2020,21:04:21,Noche,Distracción,Fatiga,"2,83",28.00,22.00,conducción distraída,-33.370258,-70.507560
+VAR,,LLVH42,6/30/2020,12:59:56,Día,Distracción,Fatiga,"1,52",29.00,12.00,conducción distraída,-33.173534,-70.337433
+VAR,,1651 - LPBX91,6/30/2020,21:04:38,Noche,Distracción,Fatiga,"2,26",31.00,19.00,conducción distraída,-33.370139,-70.506108
+VAR,,1650- LLWZ31,6/30/2020,19:07:13,Día,Distracción,Fatiga,"2,07",69.00,40.00,conducción distraída,-33.516520,-70.799376
+VAR,,1650- LLWZ31,6/30/2020,19:29:48,Día,Distracción,Fatiga,"1,61",78.00,35.00,conducción distraída,-33.705713,-71.001102
+VAR,,1242 - GWKL18,6/30/2020,13:33:20,Día,Distracción,Fatiga,"1,95",83.00,45.00,conducción distraída,-33.561667,-71.558333
+VAR,,1650- LLWZ31,6/30/2020,20:07:14,Noche,Distracción,Fatiga,"1,61",86.00,38.00,conducción distraída,-33.572251,-71.515569
+VAR,,1651 - LPBX91,7/1/2020,13:42:45,Día,Distracción,Fatiga,"1,57",33.00,14.00,conducción distraída,-33.162891,-70.669235
+VAR,,1651 - LPBX91,7/1/2020,13:42:50,Día,Distracción,Fatiga,"2,09",33.00,19.00,conducción distraída,-33.162871,-70.669729
+VAR,,1651 - LPBX91,7/1/2020,13:43:16,Día,Distracción,Fatiga,"2,30",34.00,22.00,conducción distraída,-33.162236,-70.672199
+VAR,Braulio Diaz,1240 - GWKL16,7/2/2020,03:43:55,Noche,Fatiga,Fatiga,"1,55",82.00,35.00,somnolencia,-33.386400,-70.636007
+VAR,,1240 - GWKL16,7/2/2020,20:39:54,Noche,Distracción,Fatiga,"1,52",11.00,4.00,conducción distraída,-33.380364,-70.752637
+VAR,,1671- LRTK88,7/2/2020,15:19:05,Día,Distracción,Distracción,"4,37",27.00,33.00,conducción distraída,-33.143785,-70.707180
+VAR,,1648 - LLWZ32,7/2/2020,14:12:49,Día,Distracción,Mirada ausente,"3,58",47.00,46.00,conducción distraída,-33.611111,-71.453333
+VAR,,1240 - GWKL16,7/3/2020,10:01:23,Día,Distracción,Fatiga,"2,20",12.00,7.00,conducción distraída,-33.384860,-70.750849
+VAR,,1668-LRTK85,7/3/2020,10:35:05,Día,Distracción,Fatiga,"1,93",26.00,14.00,conducción distraída,-33.195278,-70.338889
+VAR,,JPST72,7/4/2020,00:28:59,Noche,Distracción,Fatiga,"1,68",14.00,7.00,conducción distraída,-33.175909,-70.337134
+VAR,,LGGJ24,7/4/2020,14:21:14,Día,Distracción,Fatiga,"1,89",25.00,13.00,conducción distraída,-32.759581,-70.710645
+VAR,,1650- LLWZ31,7/6/2020,15:17:09,Día,Distracción,Distracción,"3,05",40.00,34.00,conducción distraída,-33.156004,-70.650777
+VAR,,1650- LLWZ31,7/6/2020,16:34:53,Día,Distracción,Distracción,"3,17",40.00,35.00,conducción distraída,-33.161415,-70.673496
+VAR,,1665-LRTK82,7/7/2020,12:21:19,Día,Distracción,Fatiga,"2,08",22.00,13.00,conducción distraída,-33.164444,-70.331667
+VAR,,1242 - GWKL18,7/7/2020,15:21:26,Día,Distracción,Fatiga,"1,98",36.00,20.00,conducción distraída,-33.596944,-71.591667
+VAR,,1242 - GWKL18,7/7/2020,12:03:03,Día,Distracción,Fatiga,"1,73",86.00,41.00,conducción distraída,-33.674722,-71.099722
+VAR,,1242 - GWKL18,7/7/2020,12:25:50,Día,Distracción,Fatiga,"1,58",86.00,38.00,conducción distraída,-33.618056,-71.431667
+VAR,,1242 - GWKL18,7/7/2020,12:01:54,Día,Distracción,Fatiga,"2,07",88.00,51.00,conducción distraída,-33.680556,-71.082500
+VAR,,1242 - GWKL18,7/7/2020,12:02:13,Día,Distracción,Fatiga,"1,97",88.00,48.00,conducción distraída,-33.678889,-71.087222
+VAR,,1242 - GWKL18,7/7/2020,11:34:50,Día,Distracción,Fatiga,"1,94",89.00,48.00,conducción distraída,-33.517222,-70.799444
+VAR,,1242 - GWKL18,7/7/2020,12:01:48,Día,Distracción,Fatiga,"2,25",89.00,55.00,conducción distraída,-33.680833,-71.081111
+VAR,,1242 - GWKL18,7/7/2020,12:01:51,Día,Distracción,Fatiga,"2,12",89.00,52.00,conducción distraída,-33.680556,-71.081944
+VAR,,1242 - GWKL18,7/7/2020,12:02:20,Día,Distracción,Fatiga,"2,22",89.00,55.00,conducción distraída,-33.678056,-71.089167
+VAR,,1242 - GWKL18,7/7/2020,12:02:23,Día,Distracción,Fatiga,"2,07",89.00,51.00,conducción distraída,-33.678056,-71.089722
+VAR,,1242 - GWKL18,7/7/2020,12:02:39,Día,Distracción,Fatiga,"1,57",89.00,39.00,conducción distraída,-33.676667,-71.093889
+VAR,,1242 - GWKL18,7/7/2020,12:03:29,Día,Distracción,Fatiga,"1,55",89.00,38.00,conducción distraída,-33.672778,-71.106111
+VAR,,1242 - GWKL18,7/7/2020,12:03:44,Día,Distracción,Fatiga,"1,75",89.00,43.00,conducción distraída,-33.671944,-71.110000
+VAR,,1242 - GWKL18,7/7/2020,12:03:55,Día,Distracción,Fatiga,"1,92",89.00,47.00,conducción distraída,-33.671389,-71.113056
+VAR,,JPST72,7/8/2020,05:09:52,Noche,Distracción,Fatiga,"1,59",18.00,8.00,conducción distraída,-33.197310,-70.338946
+VAR,,1665-LRTK82,7/8/2020,11:06:21,Día,Distracción,Fatiga,"1,87",20.00,10.00,conducción distraída,-33.163611,-70.331667
+VAR,,1669 - LRTK86,7/8/2020,13:29:19,Día,Distracción,Fatiga,"1,56",25.00,11.00,conducción distraída,-33.149137,-70.693273
+VAR,,1669 - LRTK86,7/8/2020,13:48:16,Día,Distracción,Distracción,"3,26",38.00,34.00,conducción distraída,-33.162937,-70.669629
+VAR,,1671- LRTK88,7/8/2020,14:54:32,Día,Distracción,Distracción,"4,07",49.00,56.00,conducción distraída,-33.633443,-70.712925
+VAR,,1649 - LLWZ28,7/8/2020,10:41:07,Día,Distracción,Distracción,"3,18",77.00,68.00,conducción distraída,-33.357692,-70.704169
+VAR,,1651 - LPBX91,7/8/2020,12:15:16,Día,Distracción,Fatiga,"1,72",81.00,39.00,conducción distraída,-33.504957,-70.730818
+VAR,,1650- LLWZ31,7/8/2020,14:58:54,Día,Distracción,Distracción,"3,04",83.00,70.00,conducción distraída,-33.596731,-70.715590
+VAR,,1240 - GWKL16,7/9/2020,00:55:31,Noche,Distracción,Fatiga,"1,98",17.00,9.00,conducción distraída,-33.150061,-70.313866
+VAR,,1651 - LPBX91,7/9/2020,04:03:49,Noche,Distracción,Fatiga,"1,85",89.00,46.00,conducción distraída,-33.390156,-70.630988
+VAR,,1651 - LPBX91,7/10/2020,03:37:06,Noche,Distracción,Fatiga,"1,70",16.00,7.00,conducción distraída,-33.367782,-70.397834
+VAR,,1240 - GWKL16,7/10/2020,22:44:11,Noche,Distracción,Distracción,"4,07",29.00,32.00,conducción distraída,-33.324093,-70.361310
+VAR,,1649 - LLWZ28,7/10/2020,09:07:48,Día,Distracción,Distracción,"3,52",44.00,43.00,conducción distraída,-33.387905,-70.754615
+VAR,,1650- LLWZ31,7/10/2020,11:21:55,Día,Distracción,Distracción,"3,28",81.00,74.00,conducción distraída,-33.110750,-70.687543
+VAR,,1242 - GWKL18,7/10/2020,17:10:03,Día,Distracción,Fatiga,"1,93",81.00,43.00,conducción distraída,-33.282222,-70.738056
+VAR,,1240 - GWKL16,7/11/2020,00:40:07,Noche,Distracción,Fatiga,"1,96",13.00,7.00,conducción distraída,-33.174659,-70.336822
+VAR,,1240 - GWKL16,7/11/2020,03:42:58,Noche,Distracción,Fatiga,"1,74",16.00,8.00,conducción distraída,-33.326050,-70.361681
+VAR,,1651 - LPBX91,7/11/2020,00:48:12,Noche,Distracción,Fatiga,"1,59",18.00,8.00,conducción distraída,-33.187672,-70.338290
+VAR,,1240 - GWKL16,7/11/2020,01:07:59,Noche,Distracción,Fatiga,"1,67",20.00,9.00,conducción distraída,-33.149155,-70.293485
+VAR,,1240 - GWKL16,7/11/2020,01:07:37,Noche,Distracción,Fatiga,"1,87",21.00,11.00,conducción distraída,-33.150246,-70.294059
+VAR,,1240 - GWKL16,7/11/2020,01:10:08,Noche,Distracción,Distracción,"4,57",26.00,33.00,conducción distraída,-33.147599,-70.285644
+VAR,,1668-LRTK85,7/11/2020,12:08:55,Día,Distracción,Fatiga,"1,93",29.00,16.00,conducción distraída,-33.200556,-70.338056
+VAR,,1652-LLWZ24,7/11/2020,04:22:16,Noche,Distracción,Fatiga,"1,57",45.00,20.00,conducción distraída,-33.366962,-70.498221
+VAR,,JYZD34,7/11/2020,16:21:33,Día,Distracción,Fatiga,"1,52",62.00,26.00,conducción distraída,-33.460493,-70.764094
+VAR,,1651 - LPBX91,7/11/2020,04:16:54,Noche,Distracción,Fatiga,"1,69",87.00,41.00,conducción distraída,-33.373650,-70.719223
+VAR,,JYZD34,7/11/2020,16:25:56,Día,Distracción,Fatiga,"2,17",88.00,53.00,conducción distraída,-33.413728,-70.782159
+VAR,,1650- LLWZ31,7/12/2020,01:14:36,Noche,Distracción,Fatiga,"1,83",22.00,11.00,conducción distraída,-33.256542,-70.345821
+VAR,,1650- LLWZ31,7/12/2020,01:13:46,Noche,Distracción,Fatiga,"3,52",28.00,28.00,conducción distraída,-33.259012,-70.347486
+VAR,,1650- LLWZ31,7/12/2020,04:32:24,Noche,Distracción,Fatiga,"1,96",32.00,17.00,conducción distraída,-33.367310,-70.499696
+VAR,,1649 - LLWZ28,7/12/2020,02:56:19,Noche,Distracción,Distracción,"6,55",47.00,86.00,conducción distraída,-33.195964,-70.340346
+VAR,Christian Poblete,1240 - GWKL16,7/13/2020,12:02:58,Día,Fatiga,Fatiga,"1,80",78.00,39.00,somnolencia,-33.286147,-70.736004
+VAR,,1650- LLWZ31,7/13/2020,05:26:46,Noche,Distracción,Fatiga,"2,96",24.00,20.00,conducción distraída,-33.367109,-70.498783
+VAR,,1241- GWKL17,7/13/2020,23:38:41,Noche,Distracción,Distracción,"4,04",25.00,28.00,conducción distraída,-33.195386,-70.338965
+VAR,,1650- LLWZ31,7/13/2020,05:26:53,Noche,Distracción,Fatiga,"3,68",26.00,26.00,conducción distraída,-33.367212,-70.499139
+VAR,,1241- GWKL17,7/13/2020,21:32:12,Noche,Distracción,Distracción,"6,55",32.00,57.00,conducción distraída,-33.364280,-70.475194
+VAR,,1241- GWKL17,7/13/2020,20:39:22,Noche,Distracción,Distracción,"6,94",36.00,70.00,conducción distraída,-33.394803,-70.609387
+VAR,,1241- GWKL17,7/13/2020,22:50:35,Noche,Distracción,Distracción,"4,20",36.00,42.00,conducción distraída,-33.308020,-70.356886
+VAR,,1241- GWKL17,7/13/2020,23:32:05,Noche,Distracción,Distracción,"4,57",38.00,48.00,conducción distraída,-33.217481,-70.340544
+VAR,,1648 - LLWZ32,7/13/2020,15:32:35,Día,Distracción,Fatiga,"2,87",57.00,45.00,conducción distraída,-33.149167,-70.655556
+VAR,,1650- LLWZ31,7/13/2020,20:39:05,Noche,Distracción,Distracción,"4,05",77.00,87.00,conducción distraída,-33.366178,-70.690995
+VAR,,1652-LLWZ24,7/13/2020,15:31:08,Día,Distracción,Fatiga,"1,80",81.00,40.00,conducción distraída,-33.524985,-70.677778
+VAR,,1669 - LRTK86,7/13/2020,13:38:59,Día,Distracción,Distracción,"3,20",88.00,78.00,conducción distraída,-33.287581,-70.735487
+VAR,,1669 - LRTK86,7/13/2020,13:39:55,Día,Distracción,Distracción,"3,11",88.00,76.00,conducción distraída,-33.275939,-70.740670
+VAR,Alexis Silva,LLVH43,7/14/2020,01:38:34,Noche,Fatiga,Fatiga,"1,59",30.00,13.00,somnolencia,-33.257013,-70.345924
+VAR,,1241- GWKL17,7/14/2020,23:53:38,Noche,Distracción,Fatiga,"1,52",11.00,5.00,conducción distraída,-33.172041,-70.338496
+VAR,,1241- GWKL17,7/14/2020,01:58:09,Noche,Distracción,Distracción,"4,42",26.00,32.00,conducción distraída,-33.194531,-70.339041
+VAR,,1241- GWKL17,7/14/2020,21:06:24,Noche,Distracción,Distracción,"4,29",29.00,35.00,conducción distraída,-33.366998,-70.496008
+VAR,,1241- GWKL17,7/14/2020,01:33:43,Noche,Distracción,Distracción,"4,87",34.00,45.00,conducción distraída,-33.145999,-70.310093
+VAR,,1650- LLWZ31,7/14/2020,00:59:58,Noche,Distracción,Distracción,"3,24",35.00,32.00,conducción distraída,-33.294381,-70.355208
+VAR,,1241- GWKL17,7/14/2020,01:34:02,Noche,Distracción,Distracción,"4,22",36.00,43.00,conducción distraída,-33.147442,-70.311323
+VAR,,1241- GWKL17,7/14/2020,01:35:04,Noche,Distracción,Distracción,"4,59",38.00,49.00,conducción distraída,-33.151778,-70.315931
+VAR,,1650- LLWZ31,7/14/2020,21:15:57,Noche,Distracción,Fatiga,"2,28",52.00,33.00,conducción distraída,-33.366383,-70.514523
+VAR,,1650- LLWZ31,7/14/2020,15:41:48,Día,Distracción,Distracción,"3,63",66.00,67.00,conducción distraída,-33.361462,-70.702192
+VAR,,1650- LLWZ31,7/14/2020,03:01:21,Noche,Distracción,Distracción,"3,37",88.00,82.00,conducción distraída,-33.660467,-70.899745
+VAR,,1650- LLWZ31,7/14/2020,05:08:37,Noche,Distracción,Distracción,"3,52",88.00,86.00,conducción distraída,-33.623328,-71.408714
+VAR,,1650- LLWZ31,7/14/2020,05:38:00,Noche,Distracción,Distracción,"3,04",88.00,74.00,conducción distraída,-33.700699,-70.975630
+VAR,,1650- LLWZ31,7/14/2020,05:08:42,Noche,Distracción,Distracción,"3,57",89.00,88.00,conducción distraída,-33.623850,-71.407540
+VAR,,1241- GWKL17,7/15/2020,23:07:51,Noche,Distracción,Fatiga,"1,98",20.00,11.00,conducción distraída,-33.173264,-70.337498
+VAR,,LLVH43,7/15/2020,01:18:08,Noche,Distracción,Fatiga,"2,15",24.00,14.00,notificación de conducir distraído,-33.211856,-70.339240
+VAR,,1241- GWKL17,7/15/2020,00:19:23,Noche,Distracción,Distracción,"4,42",25.00,31.00,conducción distraída,-33.147648,-70.285703
+VAR,,1241- GWKL17,7/15/2020,00:03:21,Noche,Distracción,Distracción,"4,02",26.00,29.00,conducción distraída,-33.156399,-70.320928
+VAR,,1241- GWKL17,7/15/2020,22:54:33,Noche,Distracción,Distracción,"4,59",29.00,37.00,conducción distraída,-33.218936,-70.340133
+VAR,,LLVH43,7/15/2020,01:41:51,Noche,Distracción,Fatiga,"1,55",31.00,13.00,notificación de cierre los ojos,-33.243130,-70.345841
+VAR,,1651 - LPBX91,7/15/2020,03:08:15,Noche,Distracción,Distracción,"3,02",36.00,30.00,conducción distraída,-33.366982,-70.497967
+VAR,,1650- LLWZ31,7/15/2020,22:18:31,Noche,Distracción,Distracción,"3,66",37.00,38.00,conducción distraída,-33.370193,-70.506636
+VAR,,1670 - LRTK87,7/15/2020,06:12:11,Noche,Distracción,Mirada ausente,"3,54",38.00,37.00,conducción distraída,-33.388333,-70.756944
+VAR,,1241- GWKL17,7/15/2020,20:59:34,Noche,Distracción,Distracción,"7,26",52.00,105.00,conducción distraída,-33.380973,-70.580212
+VAR,Fernando Villegas,1241- GWKL17,7/16/2020,21:24:14,Noche,Fatiga,Fatiga,"1,50",12.00,5.00,somnolencia,-33.369425,-70.412412
+VAR,,1241- GWKL17,7/16/2020,23:04:05,Noche,Distracción,Fatiga,"1,80",20.00,10.00,conducción distraída,-33.160244,-70.332408
+VAR,,1241- GWKL17,7/16/2020,01:40:46,Noche,Distracción,Distracción,"4,79",32.00,43.00,conducción distraída,-33.279957,-70.351447
+VAR,,1650- LLWZ31,7/16/2020,21:54:51,Noche,Distracción,Fatiga,"1,63",32.00,14.00,conducción distraída,-33.228409,-70.341221
+VAR,,1650- LLWZ31,7/16/2020,00:52:26,Noche,Distracción,Distracción,"3,53",36.00,36.00,conducción distraída,-33.315567,-70.359707
+VAR,,1650- LLWZ31,7/16/2020,02:38:03,Noche,Distracción,Fatiga,"2,61",88.00,64.00,conducción distraída,-33.669059,-71.131818
+VAR,,1650- LLWZ31,7/16/2020,02:49:01,Noche,Distracción,Distracción,"3,89",88.00,95.00,conducción distraída,-33.652160,-71.293925
+VAR,Manuel Morales,1649 - LLWZ28,7/17/2020,22:38:04,Noche,Fatiga,Fatiga,"1,59",33.00,15.00,somnolencia,-33.284925,-70.353008
+VAR,,LLVH42,7/17/2020,12:59:39,Día,Distracción,Fatiga,"1,57",16.00,7.00,conducción distraída,-33.162319,-70.281334
+VAR,,1241- GWKL17,7/17/2020,23:52:51,Noche,Distracción,Fatiga,"1,50",19.00,8.00,conducción distraída,-33.148451,-70.312698
+VAR,,1241- GWKL17,7/17/2020,21:26:38,Noche,Distracción,Fatiga,"1,78",23.00,11.00,conducción distraída,-33.369680,-70.398528
+VAR,,LLVH42,7/17/2020,14:27:35,Día,Distracción,Fatiga,"2,18",38.00,23.00,conducción distraída,-33.150736,-70.314482
+VAR,,1649 - LLWZ28,7/17/2020,20:26:17,Noche,Distracción,Distracción,"3,02",80.00,67.00,conducción distraída,-33.388877,-70.632986
+VAR,,1241- GWKL17,7/18/2020,01:38:17,Noche,Distracción,Fatiga,"1,76",34.00,17.00,conducción distraída,-33.148891,-70.293004
+VAR,,1650- LLWZ31,7/18/2020,01:54:53,Noche,Distracción,Fatiga,"2,46",71.00,49.00,conducción distraída,-33.369238,-70.519360
+VAR,,1650- LLWZ31,7/18/2020,02:33:22,Noche,Distracción,Distracción,"3,17",90.00,79.00,conducción distraída,-33.611886,-70.853322
+VAR,,LLVH42,7/19/2020,13:39:30,Día,Distracción,Fatiga,"1,56",20.00,8.00,conducción distraída,-33.156638,-70.321079
+VAR,,1651 - LPBX91,7/20/2020,16:48:14,Día,Distracción,Fatiga,"1,72",16.00,8.00,conducción distraída,-33.166043,-70.656533
+VAR,,1241- GWKL17,7/20/2020,22:49:22,Noche,Distracción,Fatiga,"2,15",18.00,11.00,conducción distraída,-33.160475,-70.329642
+VAR,,LLVH42,7/20/2020,06:45:12,Noche,Distracción,Distracción,"3,33",42.00,39.00,conducción distraída,-33.168354,-70.336770
+VAR,,1651 - LPBX91,7/20/2020,10:04:04,Día,Distracción,Fatiga,"2,78",88.00,68.00,conducción distraída,-33.356298,-70.691882
+VAR,,1671- LRTK88,7/20/2020,13:32:26,Día,Distracción,Fatiga,"1,81",88.00,44.00,conducción distraída,-33.670013,-71.122279
+VAR,,1648 - LLWZ32,7/20/2020,10:04:13,Día,Distracción,Mirada ausente,"3,35",90.00,84.00,conducción distraída,-33.302778,-70.699722
+VAR,,1648 - LLWZ32,7/20/2020,10:06:08,Día,Distracción,Mirada ausente,"3,14",90.00,78.00,conducción distraída,-33.277222,-70.702500
+VAR,,1671- LRTK88,7/20/2020,10:37:51,Día,Distracción,Fatiga,"1,57",90.00,39.00,conducción distraída,-33.652261,-71.330195
+VAR,,1671- LRTK88,7/21/2020,10:54:15,Día,Distracción,Distracción,"4,28",25.00,30.00,conducción distraída,-33.074305,-70.716658
+VAR,,1241- GWKL17,7/21/2020,02:30:33,Noche,Distracción,Fatiga,"1,70",88.00,42.00,notificación de cierre los ojos,-33.371742,-70.735415
+VAR,,1242 - GWKL18,7/23/2020,02:04:12,Noche,Distracción,Fatiga,"2,88",17.00,14.00,conducción distraída,-33.222500,-70.341389
+VAR,,1671- LRTK88,7/23/2020,13:46:31,Día,Distracción,Fatiga,"1,68",51.00,24.00,conducción distraída,-33.073194,-70.726425
+VAR,,1659 - LLWZ27,7/23/2020,10:38:43,Día,Distracción,Fatiga,"2,77",88.00,68.00,conducción distraída,-33.200833,-70.661667
+VAR,,1670 - LRTK87,7/24/2020,05:17:22,Noche,Distracción,Mirada ausente,"3,39",35.00,33.00,conducción distraída,-33.595833,-71.615000
+VAR,,1651 - LPBX91,7/24/2020,05:51:16,Noche,Distracción,Distracción,"4,29",42.00,51.00,conducción distraída,-33.365112,-70.493836
+VAR,,1649 - LLWZ28,7/24/2020,13:10:36,Día,Distracción,Distracción,"3,18",68.00,60.00,conducción distraída,-33.888023,-70.735460
+VAR,,1650- LLWZ31,7/24/2020,13:01:18,Día,Distracción,Distracción,"3,17",79.00,69.00,conducción distraída,-33.344901,-70.709634
+VAR,,LLVH42,7/25/2020,19:34:44,Día,Distracción,Fatiga,"2,17",31.00,19.00,conducción distraída,-33.182379,-70.337415
+VAR,,1669 - LRTK86,7/25/2020,02:30:43,Noche,Distracción,Distracción,"3,13",64.00,55.00,conducción distraída,-33.477631,-70.690069
+VAR,Marco Villanueva,LLVH42,7/27/2020,16:36:27,Día,Fatiga,Fatiga,"1,67",47.00,22.00,somnolencia,-33.149879,-70.313733
+VAR,,1670 - LRTK87,7/27/2020,12:58:35,Día,Distracción,Mirada ausente,"3,13",31.00,27.00,conducción distraída,-33.107500,-70.714722
+VAR,,1670 - LRTK87,7/27/2020,16:19:46,Día,Distracción,Mirada ausente,"3,12",54.00,46.00,conducción distraída,-33.096944,-70.692500
+VAR,,1650- LLWZ31,7/27/2020,20:30:14,Noche,Distracción,Distracción,"3,89",68.00,73.00,conducción distraída,-33.393200,-70.626958
+VAR,Braulio Diaz,1240 - GWKL16,7/28/2020,04:15:48,Noche,Fatiga,Fatiga,"1,96",92.00,50.00,somnolencia,-33.368591,-70.704145
+VAR,Alexis Silva,LLVH43,7/28/2020,01:36:29,Noche,Fatiga,Fatiga,"1,74",39.00,19.00,somnolencia,-33.181131,-70.337629
+VAR,,1670 - LRTK87,7/28/2020,11:14:15,Día,Distracción,Mirada ausente,"3,21",30.00,27.00,conducción distraída,-33.111111,-70.711111
+VAR,,1669 - LRTK86,7/28/2020,23:16:56,Noche,Distracción,Distracción,"3,89",40.00,44.00,conducción distraída,-33.231107,-70.345745
+VAR,,1669 - LRTK86,7/28/2020,09:49:49,Día,Distracción,Distracción,"3,18",43.00,38.00,conducción distraída,-33.217261,-70.675448
+VAR,,LGGJ24,7/28/2020,14:57:43,Día,Distracción,Distracción,"4,07",76.00,85.00,conducción distraída,-33.170662,-70.651723
+VAR,,1669 - LRTK86,7/28/2020,12:19:40,Día,Distracción,Distracción,"3,68",88.00,90.00,conducción distraída,-33.286698,-70.736079
+VAR,,1671- LRTK88,7/28/2020,17:26:06,Día,Distracción,Distracción,"5,11",88.00,125.00,conducción distraída,-33.322742,-70.719843
+VAR,,1671- LRTK88,7/29/2020,02:03:23,Noche,Distracción,Distracción,"4,39",26.00,32.00,conducción distraída,-33.190292,-70.338830
