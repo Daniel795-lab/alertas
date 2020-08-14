@@ -17,6 +17,7 @@ library(readxl)
 library(ggspatial)
 library(janitor)
 library(leaflet.extras)
+library(usethis)
 
 setwd("C:/Users/Daniel/Desktop/R/TP4/alertas")
 
